@@ -6,7 +6,7 @@
         "description": "3D game engine and editor, made with C++ and Vulkan.",
         "motivation": "Personal project",
         "tech": "C++, Visual Studio, Vulkan, GLFW, many more...",
-        "image": "../images/MintyEngine.png",
+        "image": "images/MintyEngine.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Minty-Engine"
     },
@@ -17,7 +17,7 @@
         "description": "A futile japan Samurai must fight back agains the spirit world, as it is his duty.",
         "motivation": "Personal project",
         "tech": "Minty Game Engine, C#, Crocotile 3D",
-        "image": "../images/Yokiado.png",
+        "image": "images/Yokiado.png",
         "link": "",
         "repo": ""
     },
@@ -28,7 +28,7 @@
         "description": "Explore, fight, and mold the world around you in this 2D sandbox game.",
         "motivation": "Personal project",
         "tech": "C++, Visual Studio, SDL2",
-        "image": "../images/Alkaline.png",
+        "image": "images/Alkaline.png",
         "link": "",
         "repo": ""
     },
@@ -39,7 +39,7 @@
         "description": "Unethical lab experiments meet little alchemy crafting in this fun roguelike.",
         "motivation": "COM S 437 (Computer Game and Media Programming) final project",
         "tech": "Unity, C#, Visual Studio, Crocotile 3D, Aseprite",
-        "image": "../images/DrCovalent.png",
+        "image": "images/DrCovalent.png",
         "link": "",
         "repo": ""
     },
@@ -50,7 +50,7 @@
         "description": "A 3D procedural generation terrain tool.",
         "motivation": "COM S 437 (Computer Game and Media Programming) technical presentation",
         "tech": "WebGL, JavaScript, FastNoiseLite.",
-        "image": "../images/TerrainGenerationDemo.png",
+        "image": "images/TerrainGenerationDemo.png",
         "link": "",
         "repo": "https://github.com/mtalyat/437-Technical-Demo"
     },
@@ -61,7 +61,7 @@
         "description": "A classic take on mini golf, but with more balls?",
         "motivation": "COM S 437 (Computer Game and Media Programming) project",
         "tech": "C#, MonoGame, Gimp",
-        "image": "../images/MiniGolf.png",
+        "image": "images/MiniGolf.png",
         "link": "https://bigmintymitch.itch.io/mini-golf",
         "repo": "https://github.com/mtalyat/Mini-Golf"
     },
@@ -72,7 +72,7 @@
         "description": "A technical project that implemented a voxel ray tracer.",
         "motivation": "COM S 336 (Introduction to Computer Graphics) final project",
         "tech": "JavaScript, WebGL, MagicaVoxel",
-        "image": "../images/VoxelRayTracer.png",
+        "image": "images/VoxelRayTracer.png",
         "link": "",
         "repo": ""
     },
@@ -83,7 +83,7 @@
         "description": "A header-only gui system for a terminal, written in C.",
         "motivation": "Personal project",
         "tech": "C, Visual Studio",
-        "image": "../images/SHITE.png",
+        "image": "images/SHITE.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine"
     },
@@ -94,7 +94,7 @@
         "description": "Pixels and golf, who knew how cool it would be?",
         "motivation": "Personal project",
         "tech": "Unity, C#, Visual Studio, Aseprite",
-        "image": "../images/Pixgolf.png",
+        "image": "images/Pixgolf.png",
         "link": "",
         "repo": ""
     },
@@ -105,7 +105,7 @@
         "description": "A Windows application that allows you to create custom keyboard shortcuts that can run commands, bat files, python scripts, or applications.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, WinForms",
-        "image": "../images/TheMacroApp.png",
+        "image": "images/TheMacroApp.png",
         "link": "",
         "repo": "https://github.com/mtalyat/The-Macro-App"
     },
@@ -116,7 +116,7 @@
         "description": "A simple image sorting application.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, WinForms",
-        "image": "../images/ImageSorter.png",
+        "image": "images/ImageSorter.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Image-Sorter"
     },
@@ -127,7 +127,7 @@
         "description": "A 2D game engine for pixel games.",
         "motivation": "Personal project",
         "tech": "C++, SDL2, Visual Studio",
-        "image": "../images/Minty.png",
+        "image": "images/Minty.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Minty"
     },
@@ -138,7 +138,7 @@
         "description": "A falling sand simulation game.",
         "motivation": "Personal project",
         "tech": "C++, SDL2, Visual Studio",
-        "image": "../images/SandGameTechDemo.png",
+        "image": "images/SandGameTechDemo.png",
         "link": "",
         "repo": "https://github.com/mtalyat/SandGame-Tech-Demo"
     },
@@ -149,7 +149,7 @@
         "description": "A VS Code extension for LEGv8 Assembly (a subset of ARM for learning purposes).",
         "motivation": "Personal project",
         "tech": "TypeScript, VS Code, LEGv8 (kinda)",
-        "image": "../images/LEGv8.png",
+        "image": "images/LEGv8.png",
         "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
         "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension"
     },
@@ -160,7 +160,7 @@
         "description": "A tool for designing logic circut components for the game, Logic World.",
         "motivation": "Personal project",
         "tech": "Unity, C#, Visual Studio",
-        "image": "../images/ComponentDesigner.png",
+        "image": "images/ComponentDesigner.png",
         "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
         "repo": "https://github.com/mtalyat/Component-Designer"
     },
@@ -171,7 +171,7 @@
         "description": "A small application for writing and running LEGv8 assembly code.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, LEGv8 (kinda)",
-        "image": "../images/LEGv8.png",
+        "image": "images/LEGv8.png",
         "link": "",
         "repo": "https://github.com/mtalyat/LEGv8Day"
     },
@@ -182,7 +182,7 @@
         "description": "A C# library with a collection of useful tools and functions.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio",
-        "image": "../images/Talysoft.png",
+        "image": "images/Talysoft.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Talysoft"
     },
@@ -193,7 +193,7 @@
         "description": "A 2D terminal game, inspired by Minecraft.",
         "motivation": "COM S 327 (Advanced Programming Techniques) final project",
         "tech": "C++, ncurses",
-        "image": "../images/327Craft.png",
+        "image": "images/327Craft.png",
         "link": "",
         "repo": ""
     },
@@ -204,7 +204,7 @@
         "description": "A small voxel rendering engine.",
         "motivation": "Personal project",
         "tech": "C++, OpenGL, GLFW, Visual Studio",
-        "image": "../images/Venging.png",
+        "image": "images/Venging.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Venging"
     },
@@ -215,7 +215,7 @@
         "description": "A mod for the game Logic World, a digital logic simulation game, that adds a multitude of missing logic gates.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, Unity",
-        "image": "../images/GatesGalore.png",
+        "image": "images/GatesGalore.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Gates-Galore"
     },
@@ -226,7 +226,7 @@
         "description": "An advanced mathematics library for C#.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio",
-        "image": "../images/AdvancedMath.png",
+        "image": "images/AdvancedMath.png",
         "link": "",
         "repo": "https://github.com/mtalyat/AdvancedMath"
     },
@@ -237,7 +237,7 @@
         "description": "A crazy western pinball game, that takes real balls to play.",
         "motivation": "2021 Fall Game Jam, hosted by the Game Development Club at ISU (exhibition)",
         "tech": "Unity, C#, Visual Studio",
-        "image": "../images/BBITW.png",
+        "image": "images/BBITW.png",
         "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
         "repo": ""
     },
@@ -248,7 +248,7 @@
         "description": "A 3D voxel game on curved planets.",
         "motivation": "Personal project",
         "tech": "Unity, C#, Visual Studio, Blender",
-        "image": "../images/TheVoidAbove.png",
+        "image": "images/TheVoidAbove.png",
         "link": "",
         "repo": ""
     },
@@ -259,7 +259,7 @@
         "description": "A console-based math sandbox, with various functions and built-in math equations.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio",
-        "image": "../images/MathematicalSandbox.png",
+        "image": "images/MathematicalSandbox.png",
         "link": "",
         "repo": "https://github.com/mtalyat/MathematicalSandbox"
     },
@@ -270,7 +270,7 @@
         "description": "A dangerous lawn mowing racing game. Who's got the most power?",
         "motivation": "2021 Spring Game Jam, hosted by the Game Development Club at ISU (winner)",
         "tech": "Unity, C#, Visual Studio",
-        "image": "../images/MowPower.png",
+        "image": "images/MowPower.png",
         "link": "https://bigmintymitch.itch.io/mow-power",
         "repo": ""
     },
@@ -281,7 +281,7 @@
         "description": "A fun, competitive dance dance revolution clone.",
         "motivation": "2020 Fall Game Jam, hosted by the Game Development Club at ISU (winner)",
         "tech": "Unity, C#, Visual Studio",
-        "image": "../images/BeatIt.png",
+        "image": "images/BeatIt.png",
         "link": "https://bigmintymitch.itch.io/beat-it",
         "repo": ""
     },
@@ -292,7 +292,7 @@
         "description": "The C# System.Console, but better.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio",
-        "image": "../images/UltimateConsole.png",
+        "image": "images/UltimateConsole.png",
         "link": "",
         "repo": ""
     },
@@ -303,7 +303,7 @@
         "description": "A game engine that emulated a console.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, WinForms",
-        "image": "../images/UltimateConsoleEngine.jpg",
+        "image": "images/UltimateConsoleEngine.jpg",
         "link": "",
         "repo": ""
     },
@@ -314,7 +314,7 @@
         "description": "A tool for The Blockheads (video game) server consoles, to make it easier to read and find messages from players.",
         "motivation": "Personal project",
         "tech": "C#, Visual Studio, WinForms",
-        "image": "../images/ConsoleLogReader.png",
+        "image": "images/ConsoleLogReader.png",
         "link": "",
         "repo": ""
     },
@@ -325,7 +325,7 @@
         "description": "A battle of the ages amongst a group of unique teachers.",
         "motivation": "Personal project",
         "tech": "Unity, C#, Visual Studio, Autodesk Sketchbook",
-        "image": "../images/SchoolShowdown.png",
+        "image": "images/SchoolShowdown.png",
         "link": "",
         "repo": ""
     }
