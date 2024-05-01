@@ -8,10 +8,13 @@ document.addEventListener('DOMContentLoaded', function() {
             const project = projects.find(p => p.id.toString() === projectId);
             if (project) {
                 const detailSection = document.getElementById('body');
-                detailSection.innerHTML = `<h1>${project.title}</h1>
-                                           <p>${project.body}</p>`;
+                let content = `<h1>${project.title}</h1>`;
+                project.body.forEach(element => {
+                    content += `${element}`;
+                });
+                detailSection.innerHTML = content;
             } else {
-                document.getElementById('project-detail').innerHTML = '<p>Project not found.</p>';
+                document.getElementById('body').innerHTML = '<p>Project not found.</p>';
             }
         });
 });

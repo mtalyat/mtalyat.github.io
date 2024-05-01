@@ -10,7 +10,8 @@
         "link": "",
         "repo": "https://github.com/mtalyat/Minty-Engine",
         "body": [ 
-            "The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>."
+            "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>.</p>",
+            "<p>test</p>"
         ]
     },
     {
