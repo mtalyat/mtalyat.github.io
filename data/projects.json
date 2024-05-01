@@ -9,7 +9,9 @@
         "image": "images/MintyEngine.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Minty-Engine",
-        "body": ""
+        "body": [ 
+            "The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>."
+        ]
     },
     {
         "title": "Yokiado",
@@ -21,7 +23,9 @@
         "image": "images/Yokiado.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+
+        ]
     },
     {
         "title": "Alkaline",
@@ -33,7 +37,9 @@
         "image": "images/Alkaline.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Dr. Covalent",
@@ -45,7 +51,9 @@
         "image": "images/DrCovalent.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Terrain Generation Tech Demo",
@@ -57,7 +65,9 @@
         "image": "images/TerrainGenerationDemo.png",
         "link": "",
         "repo": "https://github.com/mtalyat/437-Technical-Demo",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Mini Golf?",
@@ -69,7 +79,9 @@
         "image": "images/MiniGolf.png",
         "link": "https://bigmintymitch.itch.io/mini-golf",
         "repo": "https://github.com/mtalyat/Mini-Golf",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Voxel Ray Tracer",
@@ -81,7 +93,9 @@
         "image": "images/VoxelRayTracer.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Single Header Interactive Terminal Engine",
@@ -93,7 +107,9 @@
         "image": "images/SHITE.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Pixgolf",
@@ -105,7 +121,9 @@
         "image": "images/Pixgolf.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "The Macro App",
@@ -117,7 +135,9 @@
         "image": "images/TheMacroApp.png",
         "link": "",
         "repo": "https://github.com/mtalyat/The-Macro-App",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Image Sorter",
@@ -129,7 +149,9 @@
         "image": "images/ImageSorter.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Image-Sorter",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Minty (game engine)",
@@ -141,7 +163,9 @@
         "image": "images/Minty.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Minty",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Sand Game Tech Demo",
@@ -153,7 +177,9 @@
         "image": "images/SandGameTechDemo.png",
         "link": "",
         "repo": "https://github.com/mtalyat/SandGame-Tech-Demo",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "LEGv8 Assembly VS Code Extension",
@@ -165,7 +191,9 @@
         "image": "images/LEGv8.png",
         "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
         "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Component Designer for Logic World",
@@ -177,7 +205,9 @@
         "image": "images/ComponentDesigner.png",
         "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
         "repo": "https://github.com/mtalyat/Component-Designer",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "LEGv8Day",
@@ -189,7 +219,9 @@
         "image": "images/LEGv8.png",
         "link": "",
         "repo": "https://github.com/mtalyat/LEGv8Day",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Talysoft",
@@ -201,7 +233,9 @@
         "image": "images/Talysoft.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Talysoft",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "327 Craft",
@@ -213,7 +247,9 @@
         "image": "images/327Craft.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Venging",
@@ -225,7 +261,9 @@
         "image": "images/Venging.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Venging",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Gates Galore",
@@ -237,7 +275,9 @@
         "image": "images/GatesGalore.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Gates-Galore",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Advanced Math",
@@ -249,7 +289,9 @@
         "image": "images/AdvancedMath.png",
         "link": "",
         "repo": "https://github.com/mtalyat/AdvancedMath",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Biggest Balls in the West",
@@ -261,7 +303,9 @@
         "image": "images/BBITW.png",
         "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "The Void Above",
@@ -273,7 +317,9 @@
         "image": "images/TheVoidAbove.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Mathematical Sandbox",
@@ -285,7 +331,9 @@
         "image": "images/MathematicalSandbox.png",
         "link": "",
         "repo": "https://github.com/mtalyat/MathematicalSandbox",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "MOW POWER",
@@ -297,7 +345,9 @@
         "image": "images/MowPower.png",
         "link": "https://bigmintymitch.itch.io/mow-power",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Beat It!",
@@ -309,7 +359,9 @@
         "image": "images/BeatIt.png",
         "link": "https://bigmintymitch.itch.io/beat-it",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Ultimate Console",
@@ -321,7 +373,9 @@
         "image": "images/UltimateConsole.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Ultimate Console Engine",
@@ -333,7 +387,9 @@
         "image": "images/UltimateConsoleEngine.jpg",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "Console Log Reader",
@@ -345,7 +401,9 @@
         "image": "images/ConsoleLogReader.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     },
     {
         "title": "School Showdown",
@@ -357,6 +415,8 @@
         "image": "images/SchoolShowdown.png",
         "link": "",
         "repo": "",
-        "body": ""
+        "body": [
+            
+        ]
     }
 ]

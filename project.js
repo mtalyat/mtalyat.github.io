@@ -7,10 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(projects => {
             const project = projects.find(p => p.id.toString() === projectId);
             if (project) {
-                const detailSection = document.getElementById('project-detail');
-                detailSection.innerHTML = `<h2>${project.title}</h2>
-                                           <img src="${project.image}" alt="${project.title}">
-                                           <p>${project.description}</p>`;
+                const detailSection = document.getElementById('body');
+                detailSection.innerHTML = `<h1>${project.title}</h1>
+                                           <p>${project.body}</p>`;
             } else {
                 document.getElementById('project-detail').innerHTML = '<p>Project not found.</p>';
             }
