@@ -17,7 +17,7 @@ fetch('../data/projects.json')
                 contents += `<p><b>Link:</b> <a href="${project.link}">${project.link}</a></p>`;
             }
             if(project.repo.length > 0) {
-                contents += `<p><b>Repo:</b> <a href="${project.repo}">${project.repo}</a></p>`;
+                contents += `<p><b>Repository:</b> <a href="${project.repo}">${project.repo}</a></p>`;
             }
             contents += `</div>
             </section>`;
