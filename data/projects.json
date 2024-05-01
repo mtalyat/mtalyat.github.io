@@ -8,7 +8,8 @@
         "tech": "C++, Visual Studio, Vulkan, GLFW, many more...",
         "image": "images/MintyEngine.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Minty-Engine"
+        "repo": "https://github.com/mtalyat/Minty-Engine",
+        "body": ""
     },
     {
         "title": "Yokiado",
@@ -19,7 +20,8 @@
         "tech": "Minty Game Engine, C#, Crocotile 3D",
         "image": "images/Yokiado.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Alkaline",
@@ -30,7 +32,8 @@
         "tech": "C++, Visual Studio, SDL2",
         "image": "images/Alkaline.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Dr. Covalent",
@@ -41,7 +44,8 @@
         "tech": "Unity, C#, Visual Studio, Crocotile 3D, Aseprite",
         "image": "images/DrCovalent.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Terrain Generation Tech Demo",
@@ -52,7 +56,8 @@
         "tech": "WebGL, JavaScript, FastNoiseLite.",
         "image": "images/TerrainGenerationDemo.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/437-Technical-Demo"
+        "repo": "https://github.com/mtalyat/437-Technical-Demo",
+        "body": ""
     },
     {
         "title": "Mini Golf?",
@@ -63,7 +68,8 @@
         "tech": "C#, MonoGame, Gimp",
         "image": "images/MiniGolf.png",
         "link": "https://bigmintymitch.itch.io/mini-golf",
-        "repo": "https://github.com/mtalyat/Mini-Golf"
+        "repo": "https://github.com/mtalyat/Mini-Golf",
+        "body": ""
     },
     {
         "title": "Voxel Ray Tracer",
@@ -74,7 +80,8 @@
         "tech": "JavaScript, WebGL, MagicaVoxel",
         "image": "images/VoxelRayTracer.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Single Header Interactive Terminal Engine",
@@ -85,7 +92,8 @@
         "tech": "C, Visual Studio",
         "image": "images/SHITE.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine"
+        "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine",
+        "body": ""
     },
     {
         "title": "Pixgolf",
@@ -96,7 +104,8 @@
         "tech": "Unity, C#, Visual Studio, Aseprite",
         "image": "images/Pixgolf.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "The Macro App",
@@ -107,7 +116,8 @@
         "tech": "C#, Visual Studio, WinForms",
         "image": "images/TheMacroApp.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/The-Macro-App"
+        "repo": "https://github.com/mtalyat/The-Macro-App",
+        "body": ""
     },
     {
         "title": "Image Sorter",
@@ -118,7 +128,8 @@
         "tech": "C#, Visual Studio, WinForms",
         "image": "images/ImageSorter.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Image-Sorter"
+        "repo": "https://github.com/mtalyat/Image-Sorter",
+        "body": ""
     },
     {
         "title": "Minty (game engine)",
@@ -129,7 +140,8 @@
         "tech": "C++, SDL2, Visual Studio",
         "image": "images/Minty.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Minty"
+        "repo": "https://github.com/mtalyat/Minty",
+        "body": ""
     },
     {
         "title": "Sand Game Tech Demo",
@@ -140,7 +152,8 @@
         "tech": "C++, SDL2, Visual Studio",
         "image": "images/SandGameTechDemo.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/SandGame-Tech-Demo"
+        "repo": "https://github.com/mtalyat/SandGame-Tech-Demo",
+        "body": ""
     },
     {
         "title": "LEGv8 Assembly VS Code Extension",
@@ -151,7 +164,8 @@
         "tech": "TypeScript, VS Code, LEGv8 (kinda)",
         "image": "images/LEGv8.png",
         "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
-        "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension"
+        "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension",
+        "body": ""
     },
     {
         "title": "Component Designer for Logic World",
@@ -162,7 +176,8 @@
         "tech": "Unity, C#, Visual Studio",
         "image": "images/ComponentDesigner.png",
         "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
-        "repo": "https://github.com/mtalyat/Component-Designer"
+        "repo": "https://github.com/mtalyat/Component-Designer",
+        "body": ""
     },
     {
         "title": "LEGv8Day",
@@ -173,7 +188,8 @@
         "tech": "C#, Visual Studio, LEGv8 (kinda)",
         "image": "images/LEGv8.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/LEGv8Day"
+        "repo": "https://github.com/mtalyat/LEGv8Day",
+        "body": ""
     },
     {
         "title": "Talysoft",
@@ -184,7 +200,8 @@
         "tech": "C#, Visual Studio",
         "image": "images/Talysoft.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Talysoft"
+        "repo": "https://github.com/mtalyat/Talysoft",
+        "body": ""
     },
     {
         "title": "327 Craft",
@@ -195,7 +212,8 @@
         "tech": "C++, ncurses",
         "image": "images/327Craft.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Venging",
@@ -206,7 +224,8 @@
         "tech": "C++, OpenGL, GLFW, Visual Studio",
         "image": "images/Venging.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Venging"
+        "repo": "https://github.com/mtalyat/Venging",
+        "body": ""
     },
     {
         "title": "Gates Galore",
@@ -217,7 +236,8 @@
         "tech": "C#, Visual Studio, Unity",
         "image": "images/GatesGalore.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/Gates-Galore"
+        "repo": "https://github.com/mtalyat/Gates-Galore",
+        "body": ""
     },
     {
         "title": "Advanced Math",
@@ -228,7 +248,8 @@
         "tech": "C#, Visual Studio",
         "image": "images/AdvancedMath.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/AdvancedMath"
+        "repo": "https://github.com/mtalyat/AdvancedMath",
+        "body": ""
     },
     {
         "title": "Biggest Balls in the West",
@@ -239,7 +260,8 @@
         "tech": "Unity, C#, Visual Studio",
         "image": "images/BBITW.png",
         "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "The Void Above",
@@ -250,7 +272,8 @@
         "tech": "Unity, C#, Visual Studio, Blender",
         "image": "images/TheVoidAbove.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Mathematical Sandbox",
@@ -261,7 +284,8 @@
         "tech": "C#, Visual Studio",
         "image": "images/MathematicalSandbox.png",
         "link": "",
-        "repo": "https://github.com/mtalyat/MathematicalSandbox"
+        "repo": "https://github.com/mtalyat/MathematicalSandbox",
+        "body": ""
     },
     {
         "title": "MOW POWER",
@@ -272,7 +296,8 @@
         "tech": "Unity, C#, Visual Studio",
         "image": "images/MowPower.png",
         "link": "https://bigmintymitch.itch.io/mow-power",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Beat It!",
@@ -283,7 +308,8 @@
         "tech": "Unity, C#, Visual Studio",
         "image": "images/BeatIt.png",
         "link": "https://bigmintymitch.itch.io/beat-it",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Ultimate Console",
@@ -294,7 +320,8 @@
         "tech": "C#, Visual Studio",
         "image": "images/UltimateConsole.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Ultimate Console Engine",
@@ -305,7 +332,8 @@
         "tech": "C#, Visual Studio, WinForms",
         "image": "images/UltimateConsoleEngine.jpg",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "Console Log Reader",
@@ -316,7 +344,8 @@
         "tech": "C#, Visual Studio, WinForms",
         "image": "images/ConsoleLogReader.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     },
     {
         "title": "School Showdown",
@@ -327,6 +356,7 @@
         "tech": "Unity, C#, Visual Studio, Autodesk Sketchbook",
         "image": "images/SchoolShowdown.png",
         "link": "",
-        "repo": ""
+        "repo": "",
+        "body": ""
     }
 ]
