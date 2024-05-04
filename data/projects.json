@@ -12,7 +12,7 @@
         "body": [
             "<h2>About</h2>",
             "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>. After that disaster, I decided the best option for me was to create my own game engine. I have all of the skills, and I have done it before, more or less.</p>",
-            "<img src='images/MintyEngine.png' alt='The Minty Engine editor' width=100%>",
+            "<img src='images/MintyEngine1.png' alt='The Minty Engine editor' width=100%>",
             "<p>I have learned about and created the game engine with the following technologies:</p>",
             "<h2>Technologies</h2>",
             "<h3>Vulkan</h3>",
@@ -85,7 +85,7 @@
         "repo": "https://github.com/mtalyat/437-Technical-Demo",
         "body": [
             "<p>The Terrain Generation Tech Demo was a really fun project to work on. Procedural generation has been a topic I have been quite fond of, so when I was told to select a topic for a technical presentation for my Computer Game and Media Programming class, it was a no brainer. Using two different blogs from <a href='https://www.redblobgames.com'>Red Blob Games</a> (who is <i>awesome</i>, by the way), I combined them together to create a cool little demo.</p>",
-            "<img src='images/TerrainGenerationDemo.png' alt='A screenshot of the Terrain Generation Tech Demo.'>",
+            "<img src='images/TerrainGenerationDemo1.png' alt='A screenshot of the Terrain Generation Tech Demo.'>",
             "<p>I started off using Red Blob's <a href='http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/'>Polygonal Map Generation for Games blog</a>, which I think is really cool and interesting. Using polygons is a different approach than what I have done in the past, so I thought, why not?</p>",
             "<p>This project started out with some basic HTML, CSS, and JavaScript with WebGL2. I used what I had learned from my computer graphics class I had taken to throw this together quick, as I thought it would be easy and provide me more flexibility than something such as Unity. I also felt like Unity might have been overkill for such a project, plus, this is cool, and I wanted to see if I could create something useful with my newfound skills.</p>",
             "<p>After working on this for a few days, time was running up before I had to demo this, so I decided to simplify a bit, and base it a little more off of Red Blob's <a href='https://www.redblobgames.com/maps/terrain-from-noise/'>Making Maps with Noise Functions blog</a> instead. This is the one I was more familiar with. I did get quite far with the polygons: the mesh is actually created from polygons still, which is triangulated so it can be rendered with WebGL. The height and moisture maps are still created using noise (thank you Auburn for <a href='https://github.com/Auburn/FastNoiseLite'>FastNoiseLite</a>, it is amazing.) However, I believe it turned out quite well.</p>",
@@ -285,7 +285,7 @@
         "link": "",
         "repo": "",
         "body": [
-            "<img src='images/TheLegendOfMitchell.png' alt='The Legend of Mitchell main menu screen.'>",
+            "<img src='images/TheLegendOfMitchell1.png' alt='The Legend of Mitchell main menu screen.'>",
             "<p>The Legend of Mitchell is a last minute game that I created for my girlfriend for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
             "<img src='images/TheLegendOfMitchell2.png' alt=''>",
             "<p>For designing the game, I didn't put too much thought into it. Most of that was due to the time constraint. The idea was that I was going to create a Mario clone, but with Sage as the main character. And, since Sage is the main character, then I must be the one in peril. I thought it was a fun take on the whole thing. The boss of the game, of course, had to be somebody who wants to take me from her- so, I made it my friend Devin. You can see them in the main menu screenshot. ;)</p>",
@@ -361,7 +361,7 @@
             "<p>Our goal for this game was to create a pinball game, similar to Sonic Spinball or Kirby's Pinball Land. The art on the sides of the game is supposed to represent the side art of a pinball machine, and the game can be found in the center.</p>",
             "<img src='images/BBITW4.png' alt='Biggest Balls in the West start screen'>",
             "<p>Upon hitting start, the player is greeted with a quick and dirty instruction manual. After holding down space, the ball will be fired into the game. The Biggest Balls in the West is a procedural game, with random rooms. As you progress up the tower, you can collect points. But don't take too much time: the tower will start to sink into the quicksand it sits on eventually! At the top, you can fight one of four bosses. My personal favorites are the tumbleweed and the tire, which are also cutely depicted on the side art.</p>",
-            "<div class='collage image2'><img src='images/BBITW3.png' alt='Biggest Balls in the West tumbleweed boss'><img src='images/BBITW.png' alt='Biggest Balls in the West tire boss'></div>",
+            "<div class='collage image2'><img src='images/BBITW3.png' alt='Biggest Balls in the West tumbleweed boss'><img src='images/BBITW1.png' alt='Biggest Balls in the West tire boss'></div>",
             "<p>The tumbleweed boss, you must hit it several times, as it spins and rolls in and out of view. The tire spins around, but can only be damaged if you thread the needle to the inside. I'm really happy with this game, and it was a lot of fun to work on. <a href='https://bigmintymitch.itch.io/biggest-balls-in-the-west'>Please play it on my itch page</a> if you think its cool, I'd really appreciate it!</p>"
         ]
     },
