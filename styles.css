@@ -60,3 +60,31 @@ main {
 .project div {
     text-align: left;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.content {
+    width: 50%;
+    text-align: left;
+}
+
+.content img {
+    max-width: 100%;
+    height:auto;
+}
+
+.collage div {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.image2 img {
+    width: calc(50% - 4px);
+    height: auto;
+    border: 2px solid #000;
+}

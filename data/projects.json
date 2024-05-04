@@ -270,6 +270,35 @@
         ]
     },
     {
+        "title": "The Legend of Mitchell",
+        "id": "the-legend-of-mitchell",
+        "date": "2022 Feb",
+        "description": "A 2D platformer, featuring my girlfriend.",
+        "motivation": "Personal project",
+        "tech": "Unity, C#, Visual Studio, Aseprite",
+        "image": "images/TheLegendOfMitchell.png",
+        "link": "",
+        "repo": "",
+        "body": [
+            "<img src='images/TheLegendOfMitchell.png' alt='The Legend of Mitchell main menu screen.'>",
+            "<p>The Legend of Mitchell is a last minute game that I created for my girlfriend for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
+            "<img src='images/TheLegendOfMitchell2.png' alt=''>",
+            "<p>For designing the game, I didn't put too much thought into it. Most of that was due to the time constraint. The idea was that I was going to create a Mario clone, but with Sage as the main character. And, since Sage is the main character, then I must be the one in peril. I thought it was a fun take on the whole thing. The boss of the game, of course, had to be somebody who wants to take me from her- so, I made it my friend Devin. You can see them in the main menu screenshot. ;)</p>",
+            "<img src='images/TheLegendOfMitchell3.png' alt=''>",
+            "<p>The beginning of the game involves some basic challenges for her to figure out, such as some enemies I knew she would loathe: muchrooms, green olives, and onions. All foods she hates.</p>",
+            "<img src='images/TheLegendOfMitchell4.png' alt=''>",
+            "<p>For a gimmick, I decided to make Sage so she could shrink, and become smaller. Why is that? All because, in real life, she is much shorter than I. So why not double down? It has many of its own advantages, and it especially does in this game.</p>",
+            "<img src='images/TheLegendOfMitchell6.gif' alt=''>",
+            "<p>And of course, it wouldn't be fun if she couldn't use her height to her advantage!</p>",
+            "<img src='images/TheLegendOfMitchell7.gif' alt=''>",
+            "<p>The game ended up having 3 total levels (that's all I had time for.) The first one was a fun introduction, the second was a challenge level, and the last was a boss fight. At the end, she would jump onto a green heart (her favorite color), which would fly her away to the next level:</p>",
+            "<img src='images/TheLegendOfMitchell8.gif' alt=''>",
+            "<p>And lastly, here is the introduction to the boss fight. Devin actually gave me some reference pictures for his face (which I sketched), and also helped me with designing the boss fight as well as the dialogue. I think it turned out great.</p>",
+            "<img src='images/TheLegendOfMitchell9.gif' alt=''>",
+            "<p>All in all, this was a fun, but also stressful project to work on. For me personally, I wanted to see how far I could push myself. For 5 days, I think this was great. However, more importantly, Sage thought it was great too. She cried happy tears :)</p>"
+        ]
+    },
+    {
         "title": "Venging",
         "id": "venging",
         "date": "2022 Jan - 2022 Feb",
