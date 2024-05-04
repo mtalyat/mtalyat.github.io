@@ -1,480 +1,487 @@
-[
-    {
-        "title": "Minty Game Engine",
-        "id": "minty-game-engine",
-        "date": "2023 September - Current",
-        "description": "3D game engine and editor, made with C++ and Vulkan.",
-        "motivation": "Personal project",
-        "tech": "C++, Visual Studio, Vulkan, GLFW, many more...",
-        "image": "images/MintyEngine.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Minty-Engine",
-        "body": [
-            "<h2>About</h2>",
-            "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>. After that disaster, I decided the best option for me was to create my own game engine. I have all of the skills, and I have done it before, more or less.</p>",
-            "<img src='images/MintyEngine1.png' alt='The Minty Engine editor' width=100%>",
-            "<p>I have learned about and created the game engine with the following technologies:</p>",
-            "<h2>Technologies</h2>",
-            "<h3>Vulkan</h3>",
-            "<p><a href='https://www.vulkan.org'>Vulkan</a> is a low level 3D graphics library, written for C++. It's very popular due to its constant updates, company backing, multi-platform support, and many other things. However, due to it being so low level, it has its own challenges to learn and use, much more so than something such as its older brother library, OpenGL.</p>",
-            "<h2>Experience</h2>",
-            "<p>All of the following projects helped me create this one:</p>",
-            "<ul>",
-            "<li><a href='project.html?id=minty'>Minty (game engine)</a>",
-            "<ul><li>Audio<li>2D graphics</ul>",
-            "<li><a href='project.html?id=327-craft'>327 Craft</a>",
-            "<li><a href='project.html?id=venging'>Venging</a>",
-            "<ul><li>3D graphics</ul>",
-            "<li><a href='project.html?id=the-void-above'>The Void Above</a>",
-            "<ul><li>Mesh building<li>Shaders</ul>",
-            "<li><a href='project.html?id=ultimate-console-engine'>Ultimate Console Engine</a>",
-            "</ul>"
-        ]
-    },
-    {
-        "title": "Yokaido",
-        "id": "yokaido",
-        "date": "2022 Oct - Current",
-        "description": "A futile japan Samurai must fight back agains the spirit world, as it is his duty.",
-        "motivation": "Personal project",
-        "tech": "Minty Game Engine, C#, Crocotile 3D",
-        "image": "images/Yokaido.png",
-        "link": "",
-        "repo": "",
-        "body": [
-
-        ]
-    },
-    {
-        "title": "Alkaline",
-        "id": "alkaline",
-        "date": "2022 Dec - Paused for now",
-        "description": "Explore, fight, and mold the world around you in this 2D sandbox game.",
-        "motivation": "Personal project",
-        "tech": "C++, Visual Studio, SDL2",
-        "image": "images/Alkaline.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Dr. Covalent",
-        "id": "dr-covalent",
-        "date": "2024 Jan - 2024 May",
-        "description": "Unethical lab experiments meet little alchemy crafting in this fun roguelike.",
-        "motivation": "COM S 437 (Computer Game and Media Programming) final project",
-        "tech": "Unity, C#, Visual Studio, Crocotile 3D, Aseprite",
-        "image": "images/DrCovalent.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Terrain Generation Tech Demo",
-        "id": "terrain-generation",
-        "date": "2024 Jan - Current",
-        "description": "A 3D procedural generation terrain tool.",
-        "motivation": "COM S 437 (Computer Game and Media Programming) technical presentation",
-        "tech": "WebGL, JavaScript, FastNoiseLite.",
-        "image": "images/TerrainGenerationDemo.png",
-        "link": "demos/terrain/index.html",
-        "repo": "https://github.com/mtalyat/437-Technical-Demo",
-        "body": [
-            "<p>The Terrain Generation Tech Demo was a really fun project to work on. Procedural generation has been a topic I have been quite fond of, so when I was told to select a topic for a technical presentation for my Computer Game and Media Programming class, it was a no brainer. Using two different blogs from <a href='https://www.redblobgames.com'>Red Blob Games</a> (who is <i>awesome</i>, by the way), I combined them together to create a cool little demo.</p>",
-            "<img src='images/TerrainGenerationDemo1.png' alt='A screenshot of the Terrain Generation Tech Demo.'>",
-            "<p>I started off using Red Blob's <a href='http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/'>Polygonal Map Generation for Games blog</a>, which I think is really cool and interesting. Using polygons is a different approach than what I have done in the past, so I thought, why not?</p>",
-            "<p>This project started out with some basic HTML, CSS, and JavaScript with WebGL2. I used what I had learned from my computer graphics class I had taken to throw this together quick, as I thought it would be easy and provide me more flexibility than something such as Unity. I also felt like Unity might have been overkill for such a project, plus, this is cool, and I wanted to see if I could create something useful with my newfound skills.</p>",
-            "<p>After working on this for a few days, time was running up before I had to demo this, so I decided to simplify a bit, and base it a little more off of Red Blob's <a href='https://www.redblobgames.com/maps/terrain-from-noise/'>Making Maps with Noise Functions blog</a> instead. This is the one I was more familiar with. I did get quite far with the polygons: the mesh is actually created from polygons still, which is triangulated so it can be rendered with WebGL. The height and moisture maps are still created using noise (thank you Auburn for <a href='https://github.com/Auburn/FastNoiseLite'>FastNoiseLite</a>, it is amazing.) However, I believe it turned out quite well.</p>",
-            "<p>Anyways, enough yapping. If you want to check it out, please do! <a href='demos/terrain/index.html'>It can run in your browser</a>.</p>"
-        ]
-    },
-    {
-        "title": "Mini Golf?",
-        "id": "mini-golf",
-        "date": "2024 Feb - 2024 March",
-        "description": "A classic take on mini golf, but with more balls?",
-        "motivation": "COM S 437 (Computer Game and Media Programming) project",
-        "tech": "C#, MonoGame, Gimp",
-        "image": "images/MiniGolf.png",
-        "link": "https://bigmintymitch.itch.io/mini-golf",
-        "repo": "https://github.com/mtalyat/Mini-Golf",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Voxel Ray Tracer",
-        "id": "voxel-ray-tracer",
-        "date": "2023 Nov - 2023 Dec",
-        "description": "A technical project that implemented a voxel ray tracer.",
-        "motivation": "COM S 336 (Introduction to Computer Graphics) final project",
-        "tech": "JavaScript, WebGL, MagicaVoxel",
-        "image": "images/VoxelRayTracer.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Single Header Interactive Terminal Engine",
-        "id": "shite",
-        "date": "2023 Aug - 2023 Sep",
-        "description": "A header-only gui system for a terminal, written in C.",
-        "motivation": "Personal project",
-        "tech": "C, Visual Studio",
-        "image": "images/SHITE.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Pixgolf",
-        "id": "pixgolf",
-        "date": "2023 June - 2023 Aug",
-        "description": "Pixels and golf, who knew how cool it would be?",
-        "motivation": "Personal project",
-        "tech": "Unity, C#, Visual Studio, Aseprite",
-        "image": "images/Pixgolf.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "The Macro App",
-        "id": "the-macro-app",
-        "date": "2023 June - 2023 July",
-        "description": "A Windows application that allows you to create custom keyboard shortcuts that can run commands, bat files, python scripts, or applications.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, WinForms",
-        "image": "images/TheMacroApp.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/The-Macro-App",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Image Sorter",
-        "id": "image-sorter",
-        "date": "2023 Feb",
-        "description": "A simple image sorting application.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, WinForms",
-        "image": "images/ImageSorter.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Image-Sorter",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Minty (game engine)",
-        "id": "minty",
-        "date": "2023 Jan - 2023 May",
-        "description": "A 2D game engine for pixel games.",
-        "motivation": "Personal project",
-        "tech": "C++, SDL2, Visual Studio",
-        "image": "images/Minty.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Minty",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Sand Game Tech Demo",
-        "id": "sand-game-tech-demo",
-        "date": "2022 Dec",
-        "description": "A falling sand simulation game.",
-        "motivation": "Personal project",
-        "tech": "C++, SDL2, Visual Studio",
-        "image": "images/SandGameTechDemo.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/SandGame-Tech-Demo",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "LEGv8 Assembly VS Code Extension",
-        "id": "legv8",
-        "date": "2022 Oct - 2023 Mar",
-        "description": "A VS Code extension for LEGv8 Assembly (a subset of ARM for learning purposes).",
-        "motivation": "Personal project",
-        "tech": "TypeScript, VS Code, LEGv8 (kinda)",
-        "image": "images/LEGv8.png",
-        "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
-        "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Component Designer for Logic World",
-        "id": "component-designer",
-        "date": "2022 Oct",
-        "description": "A tool for designing logic circut components for the game, Logic World.",
-        "motivation": "Personal project",
-        "tech": "Unity, C#, Visual Studio",
-        "image": "images/ComponentDesigner.png",
-        "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
-        "repo": "https://github.com/mtalyat/Component-Designer",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "LEGv8Day",
-        "id": "legv8day",
-        "date": "2022 Sep - 2022 Nov",
-        "description": "A small application for writing and running LEGv8 assembly code.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, LEGv8 (kinda)",
-        "image": "images/LEGv8.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/LEGv8Day",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Talysoft",
-        "id": "talysoft",
-        "date": "2022 Jul - 2023 Mar",
-        "description": "A C# library with a collection of useful tools and functions.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio",
-        "image": "images/Talysoft.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Talysoft",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "327 Craft",
-        "id": "327-craft",
-        "date": "2022 May",
-        "description": "A 2D terminal game, inspired by Minecraft.",
-        "motivation": "COM S 327 (Advanced Programming Techniques) final project",
-        "tech": "C++, ncurses",
-        "image": "images/327Craft.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "The Legend of Mitchell",
-        "id": "the-legend-of-mitchell",
-        "date": "2022 Feb",
-        "description": "A 2D platformer, featuring my girlfriend.",
-        "motivation": "Personal project",
-        "tech": "Unity, C#, Visual Studio, Aseprite",
-        "image": "images/TheLegendOfMitchell.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            "<img src='images/TheLegendOfMitchell1.png' alt='The Legend of Mitchell main menu screen.'>",
-            "<p>The Legend of Mitchell is a last minute game that I created for my girlfriend for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
-            "<img src='images/TheLegendOfMitchell2.png' alt=''>",
-            "<p>For designing the game, I didn't put too much thought into it. Most of that was due to the time constraint. The idea was that I was going to create a Mario clone, but with Sage as the main character. And, since Sage is the main character, then I must be the one in peril. I thought it was a fun take on the whole thing. The boss of the game, of course, had to be somebody who wants to take me from her- so, I made it my friend Devin. You can see them in the main menu screenshot. ;)</p>",
-            "<img src='images/TheLegendOfMitchell3.png' alt=''>",
-            "<p>The beginning of the game involves some basic challenges for her to figure out, such as some enemies I knew she would loathe: muchrooms, green olives, and onions. All foods she hates.</p>",
-            "<img src='images/TheLegendOfMitchell4.png' alt=''>",
-            "<p>For a gimmick, I decided to make Sage so she could shrink, and become smaller. Why is that? All because, in real life, she is much shorter than I. So why not double down? It has many of its own advantages, and it especially does in this game.</p>",
-            "<img src='images/TheLegendOfMitchell6.gif' alt=''>",
-            "<p>And of course, it wouldn't be fun if she couldn't use her height to her advantage!</p>",
-            "<img src='images/TheLegendOfMitchell7.gif' alt=''>",
-            "<p>The game ended up having 3 total levels (that's all I had time for.) The first one was a fun introduction, the second was a challenge level, and the last was a boss fight. At the end, she would jump onto a green heart (her favorite color), which would fly her away to the next level:</p>",
-            "<img src='images/TheLegendOfMitchell8.gif' alt=''>",
-            "<p>And lastly, here is the introduction to the boss fight. Devin actually gave me some reference pictures for his face (which I sketched), and also helped me with designing the boss fight as well as the dialogue. I think it turned out great.</p>",
-            "<img src='images/TheLegendOfMitchell9.gif' alt=''>",
-            "<p>All in all, this was a fun, but also stressful project to work on. For me personally, I wanted to see how far I could push myself. For 5 days, I think this was great. However, more importantly, Sage thought it was great too. She cried happy tears :)</p>"
-        ]
-    },
-    {
-        "title": "Venging",
-        "id": "venging",
-        "date": "2022 Jan - 2022 Feb",
-        "description": "A small voxel rendering engine.",
-        "motivation": "Personal project",
-        "tech": "C++, OpenGL, GLFW, Visual Studio",
-        "image": "images/Venging.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Venging",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Gates Galore",
-        "id": "gates-galore",
-        "date": "2021 Dec - 2022 Feb | 2022 Oct",
-        "description": "A mod for the game Logic World, a digital logic simulation game, that adds a multitude of missing logic gates.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, Unity",
-        "image": "images/GatesGalore.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/Gates-Galore",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Advanced Math",
-        "id": "advanced-math",
-        "date": "2021 Nov",
-        "description": "An advanced mathematics library for C#.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio",
-        "image": "images/AdvancedMath.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/AdvancedMath",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Biggest Balls in the West",
-        "id": "biggest-balls-in-the-west",
-        "date": "2021 Oct",
-        "description": "A crazy western pinball game, that takes real balls to play.",
-        "motivation": "2021 Fall Game Jam, hosted by the Game Development Club at ISU (exhibition)",
-        "tech": "Unity, C#, Visual Studio",
-        "image": "images/BBITW.png",
-        "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
-        "repo": "",
-        "body": [
-            "<p>The Biggest Balls in the West was a really fun game to work on. At the time, I was itching to create another game jam game. I was the president of the <a href='https://www.stuorg.iastate.edu/isu-gdc'>Game Development Club at Iowa State University</a> for 2 years at that point, and hadn't participated in one since before then. I convinced the other officers of the club to create a game with me, and this is what we created.</p>",
-            "<img src='images/BBITW2.png' alt='Biggest Balls in the West main menu'>",
-            "<p>Our goal for this game was to create a pinball game, similar to Sonic Spinball or Kirby's Pinball Land. The art on the sides of the game is supposed to represent the side art of a pinball machine, and the game can be found in the center.</p>",
-            "<img src='images/BBITW4.png' alt='Biggest Balls in the West start screen'>",
-            "<p>Upon hitting start, the player is greeted with a quick and dirty instruction manual. After holding down space, the ball will be fired into the game. The Biggest Balls in the West is a procedural game, with random rooms. As you progress up the tower, you can collect points. But don't take too much time: the tower will start to sink into the quicksand it sits on eventually! At the top, you can fight one of four bosses. My personal favorites are the tumbleweed and the tire, which are also cutely depicted on the side art.</p>",
-            "<div class='collage image2'><img src='images/BBITW3.png' alt='Biggest Balls in the West tumbleweed boss'><img src='images/BBITW1.png' alt='Biggest Balls in the West tire boss'></div>",
-            "<p>The tumbleweed boss, you must hit it several times, as it spins and rolls in and out of view. The tire spins around, but can only be damaged if you thread the needle to the inside. I'm really happy with this game, and it was a lot of fun to work on. <a href='https://bigmintymitch.itch.io/biggest-balls-in-the-west'>Please play it on my itch page</a> if you think its cool, I'd really appreciate it!</p>"
-        ]
-    },
-    {
-        "title": "The Void Above",
-        "id": "the-void-above",
-        "date": "2020 Sept - 2021 Dec",
-        "description": "A 3D voxel game on curved planets.",
-        "motivation": "Personal project",
-        "tech": "Unity, C#, Visual Studio, Blender",
-        "image": "images/TheVoidAbove.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Mathematical Sandbox",
-        "id": "math-sandbox",
-        "date": "2021 Mar",
-        "description": "A console-based math sandbox, with various functions and built-in math equations.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio",
-        "image": "images/MathematicalSandbox.png",
-        "link": "",
-        "repo": "https://github.com/mtalyat/MathematicalSandbox",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "MOW POWER",
-        "id": "mow-power",
-        "date": "2021 Mar",
-        "description": "A dangerous lawn mowing racing game. Who's got the most power?",
-        "motivation": "2021 Spring Game Jam, hosted by the Game Development Club at ISU (winner)",
-        "tech": "Unity, C#, Visual Studio",
-        "image": "images/MowPower.png",
-        "link": "https://bigmintymitch.itch.io/mow-power",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Beat It!",
-        "id": "beat-it",
-        "date": "2020 October",
-        "description": "A fun, competitive dance dance revolution clone.",
-        "motivation": "2020 Fall Game Jam, hosted by the Game Development Club at ISU (winner)",
-        "tech": "Unity, C#, Visual Studio",
-        "image": "images/BeatIt.png",
-        "link": "https://bigmintymitch.itch.io/beat-it",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Ultimate Console",
-        "id": "ultimate-console",
-        "date": "2020 April",
-        "description": "The C# System.Console, but better.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio",
-        "image": "images/UltimateConsole.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Ultimate Console Engine",
-        "id": "ultimate-console-engine",
-        "date": "2020 March - 2020 May",
-        "description": "A game engine that emulated a console.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, WinForms",
-        "image": "images/UltimateConsoleEngine.jpg",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "Console Log Reader",
-        "id": "console-log-reader",
-        "date": "2019 March",
-        "description": "A tool for The Blockheads (video game) server consoles, to make it easier to read and find messages from players.",
-        "motivation": "Personal project",
-        "tech": "C#, Visual Studio, WinForms",
-        "image": "images/ConsoleLogReader.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    },
-    {
-        "title": "School Showdown",
-        "id": "school-showdown",
-        "date": "2019 March",
-        "description": "A battle of the ages amongst a group of unique teachers.",
-        "motivation": "Personal project",
-        "tech": "Unity, C#, Visual Studio, Autodesk Sketchbook",
-        "image": "images/SchoolShowdown.png",
-        "link": "",
-        "repo": "",
-        "body": [
-            
-        ]
-    }
-]
+{
+    "highlighted": [
+        "minty-game-engine",
+        "biggest-balls-in-the-west",
+        "terrain-generation"
+    ],
+    "projects": [
+        {
+            "title": "Minty Game Engine",
+            "id": "minty-game-engine",
+            "date": "2023 September - Current",
+            "description": "3D game engine and editor, made with C++ and Vulkan.",
+            "motivation": "Personal project",
+            "tech": "C++, Visual Studio, Vulkan, GLFW, many more...",
+            "image": "images/MintyEngine.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Minty-Engine",
+            "body": [
+                "<h2>About</h2>",
+                "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>. After that disaster, I decided the best option for me was to create my own game engine. I have all of the skills, and I have done it before, more or less.</p>",
+                "<img src='images/MintyEngine1.png' alt='The Minty Engine editor' width=100%>",
+                "<p>I have learned about and created the game engine with the following technologies:</p>",
+                "<h2>Technologies</h2>",
+                "<h3>Vulkan</h3>",
+                "<p><a href='https://www.vulkan.org'>Vulkan</a> is a low level 3D graphics library, written for C++. It's very popular due to its constant updates, company backing, multi-platform support, and many other things. However, due to it being so low level, it has its own challenges to learn and use, much more so than something such as its older brother library, OpenGL.</p>",
+                "<h2>Experience</h2>",
+                "<p>All of the following projects helped me create this one:</p>",
+                "<ul>",
+                "<li><a href='project.html?id=minty'>Minty (game engine)</a>",
+                "<ul><li>Audio<li>2D graphics</ul>",
+                "<li><a href='project.html?id=327-craft'>327 Craft</a>",
+                "<li><a href='project.html?id=venging'>Venging</a>",
+                "<ul><li>3D graphics</ul>",
+                "<li><a href='project.html?id=the-void-above'>The Void Above</a>",
+                "<ul><li>Mesh building<li>Shaders</ul>",
+                "<li><a href='project.html?id=ultimate-console-engine'>Ultimate Console Engine</a>",
+                "</ul>"
+            ]
+        },
+        {
+            "title": "Yokaido",
+            "id": "yokaido",
+            "date": "2022 Oct - Current",
+            "description": "A futile japan Samurai must fight back agains the spirit world, as it is his duty.",
+            "motivation": "Personal project",
+            "tech": "Minty Game Engine, C#, Crocotile 3D",
+            "image": "images/Yokaido.png",
+            "link": "",
+            "repo": "",
+            "body": [
+    
+            ]
+        },
+        {
+            "title": "Alkaline",
+            "id": "alkaline",
+            "date": "2022 Dec - Paused for now",
+            "description": "Explore, fight, and mold the world around you in this 2D sandbox game.",
+            "motivation": "Personal project",
+            "tech": "C++, Visual Studio, SDL2",
+            "image": "images/Alkaline.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Dr. Covalent",
+            "id": "dr-covalent",
+            "date": "2024 Jan - 2024 May",
+            "description": "Unethical lab experiments meet little alchemy crafting in this fun roguelike.",
+            "motivation": "COM S 437 (Computer Game and Media Programming) final project",
+            "tech": "Unity, C#, Visual Studio, Crocotile 3D, Aseprite",
+            "image": "images/DrCovalent.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Terrain Generation Tech Demo",
+            "id": "terrain-generation",
+            "date": "2024 Jan - Current",
+            "description": "A 3D procedural generation terrain tool.",
+            "motivation": "COM S 437 (Computer Game and Media Programming) technical presentation",
+            "tech": "WebGL, JavaScript, FastNoiseLite.",
+            "image": "images/TerrainGenerationDemo.png",
+            "link": "demos/terrain/index.html",
+            "repo": "https://github.com/mtalyat/437-Technical-Demo",
+            "body": [
+                "<p>The Terrain Generation Tech Demo was a really fun project to work on. Procedural generation has been a topic I have been quite fond of, so when I was told to select a topic for a technical presentation for my Computer Game and Media Programming class, it was a no brainer. Using two different blogs from <a href='https://www.redblobgames.com'>Red Blob Games</a> (who is <i>awesome</i>, by the way), I combined them together to create a cool little demo.</p>",
+                "<img src='images/TerrainGenerationDemo1.png' alt='A screenshot of the Terrain Generation Tech Demo.'>",
+                "<p>I started off using Red Blob's <a href='http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/'>Polygonal Map Generation for Games blog</a>, which I think is really cool and interesting. Using polygons is a different approach than what I have done in the past, so I thought, why not?</p>",
+                "<p>This project started out with some basic HTML, CSS, and JavaScript with WebGL2. I used what I had learned from my computer graphics class I had taken to throw this together quick, as I thought it would be easy and provide me more flexibility than something such as Unity. I also felt like Unity might have been overkill for such a project, plus, this is cool, and I wanted to see if I could create something useful with my newfound skills.</p>",
+                "<p>After working on this for a few days, time was running up before I had to demo this, so I decided to simplify a bit, and base it a little more off of Red Blob's <a href='https://www.redblobgames.com/maps/terrain-from-noise/'>Making Maps with Noise Functions blog</a> instead. This is the one I was more familiar with. I did get quite far with the polygons: the mesh is actually created from polygons still, which is triangulated so it can be rendered with WebGL. The height and moisture maps are still created using noise (thank you Auburn for <a href='https://github.com/Auburn/FastNoiseLite'>FastNoiseLite</a>, it is amazing.) However, I believe it turned out quite well.</p>",
+                "<p>Anyways, enough yapping. If you want to check it out, please do! <a href='demos/terrain/index.html'>It can run in your browser</a>.</p>"
+            ]
+        },
+        {
+            "title": "Mini Golf?",
+            "id": "mini-golf",
+            "date": "2024 Feb - 2024 March",
+            "description": "A classic take on mini golf, but with more balls?",
+            "motivation": "COM S 437 (Computer Game and Media Programming) project",
+            "tech": "C#, MonoGame, Gimp",
+            "image": "images/MiniGolf.png",
+            "link": "https://bigmintymitch.itch.io/mini-golf",
+            "repo": "https://github.com/mtalyat/Mini-Golf",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Voxel Ray Tracer",
+            "id": "voxel-ray-tracer",
+            "date": "2023 Nov - 2023 Dec",
+            "description": "A technical project that implemented a voxel ray tracer.",
+            "motivation": "COM S 336 (Introduction to Computer Graphics) final project",
+            "tech": "JavaScript, WebGL, MagicaVoxel",
+            "image": "images/VoxelRayTracer.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Single Header Interactive Terminal Engine",
+            "id": "shite",
+            "date": "2023 Aug - 2023 Sep",
+            "description": "A header-only gui system for a terminal, written in C.",
+            "motivation": "Personal project",
+            "tech": "C, Visual Studio",
+            "image": "images/SHITE.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Pixgolf",
+            "id": "pixgolf",
+            "date": "2023 June - 2023 Aug",
+            "description": "Pixels and golf, who knew how cool it would be?",
+            "motivation": "Personal project",
+            "tech": "Unity, C#, Visual Studio, Aseprite",
+            "image": "images/Pixgolf.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "The Macro App",
+            "id": "the-macro-app",
+            "date": "2023 June - 2023 July",
+            "description": "A Windows application that allows you to create custom keyboard shortcuts that can run commands, bat files, python scripts, or applications.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, WinForms",
+            "image": "images/TheMacroApp.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/The-Macro-App",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Image Sorter",
+            "id": "image-sorter",
+            "date": "2023 Feb",
+            "description": "A simple image sorting application.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, WinForms",
+            "image": "images/ImageSorter.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Image-Sorter",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Minty (game engine)",
+            "id": "minty",
+            "date": "2023 Jan - 2023 May",
+            "description": "A 2D game engine for pixel games.",
+            "motivation": "Personal project",
+            "tech": "C++, SDL2, Visual Studio",
+            "image": "images/Minty.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Minty",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Sand Game Tech Demo",
+            "id": "sand-game-tech-demo",
+            "date": "2022 Dec",
+            "description": "A falling sand simulation game.",
+            "motivation": "Personal project",
+            "tech": "C++, SDL2, Visual Studio",
+            "image": "images/SandGameTechDemo.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/SandGame-Tech-Demo",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "LEGv8 Assembly VS Code Extension",
+            "id": "legv8",
+            "date": "2022 Oct - 2023 Mar",
+            "description": "A VS Code extension for LEGv8 Assembly (a subset of ARM for learning purposes).",
+            "motivation": "Personal project",
+            "tech": "TypeScript, VS Code, LEGv8 (kinda)",
+            "image": "images/LEGv8.png",
+            "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
+            "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Component Designer for Logic World",
+            "id": "component-designer",
+            "date": "2022 Oct",
+            "description": "A tool for designing logic circut components for the game, Logic World.",
+            "motivation": "Personal project",
+            "tech": "Unity, C#, Visual Studio",
+            "image": "images/ComponentDesigner.png",
+            "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
+            "repo": "https://github.com/mtalyat/Component-Designer",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "LEGv8Day",
+            "id": "legv8day",
+            "date": "2022 Sep - 2022 Nov",
+            "description": "A small application for writing and running LEGv8 assembly code.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, LEGv8 (kinda)",
+            "image": "images/LEGv8.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/LEGv8Day",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Talysoft",
+            "id": "talysoft",
+            "date": "2022 Jul - 2023 Mar",
+            "description": "A C# library with a collection of useful tools and functions.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio",
+            "image": "images/Talysoft.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Talysoft",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "327 Craft",
+            "id": "327-craft",
+            "date": "2022 May",
+            "description": "A 2D terminal game, inspired by Minecraft.",
+            "motivation": "COM S 327 (Advanced Programming Techniques) final project",
+            "tech": "C++, ncurses",
+            "image": "images/327Craft.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "The Legend of Mitchell",
+            "id": "the-legend-of-mitchell",
+            "date": "2022 Feb",
+            "description": "A 2D platformer, featuring my girlfriend.",
+            "motivation": "Personal project",
+            "tech": "Unity, C#, Visual Studio, Aseprite",
+            "image": "images/TheLegendOfMitchell.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                "<img src='images/TheLegendOfMitchell1.png' alt='The Legend of Mitchell main menu screen.'>",
+                "<p>The Legend of Mitchell is a last minute game that I created for my girlfriend for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
+                "<img src='images/TheLegendOfMitchell2.png' alt=''>",
+                "<p>For designing the game, I didn't put too much thought into it. Most of that was due to the time constraint. The idea was that I was going to create a Mario clone, but with Sage as the main character. And, since Sage is the main character, then I must be the one in peril. I thought it was a fun take on the whole thing. The boss of the game, of course, had to be somebody who wants to take me from her- so, I made it my friend Devin. You can see them in the main menu screenshot. ;)</p>",
+                "<img src='images/TheLegendOfMitchell3.png' alt=''>",
+                "<p>The beginning of the game involves some basic challenges for her to figure out, such as some enemies I knew she would loathe: muchrooms, green olives, and onions. All foods she hates.</p>",
+                "<img src='images/TheLegendOfMitchell4.png' alt=''>",
+                "<p>For a gimmick, I decided to make Sage so she could shrink, and become smaller. Why is that? All because, in real life, she is much shorter than I. So why not double down? It has many of its own advantages, and it especially does in this game.</p>",
+                "<img src='images/TheLegendOfMitchell6.gif' alt=''>",
+                "<p>And of course, it wouldn't be fun if she couldn't use her height to her advantage!</p>",
+                "<img src='images/TheLegendOfMitchell7.gif' alt=''>",
+                "<p>The game ended up having 3 total levels (that's all I had time for.) The first one was a fun introduction, the second was a challenge level, and the last was a boss fight. At the end, she would jump onto a green heart (her favorite color), which would fly her away to the next level:</p>",
+                "<img src='images/TheLegendOfMitchell8.gif' alt=''>",
+                "<p>And lastly, here is the introduction to the boss fight. Devin actually gave me some reference pictures for his face (which I sketched), and also helped me with designing the boss fight as well as the dialogue. I think it turned out great.</p>",
+                "<img src='images/TheLegendOfMitchell9.gif' alt=''>",
+                "<p>All in all, this was a fun, but also stressful project to work on. For me personally, I wanted to see how far I could push myself. For 5 days, I think this was great. However, more importantly, Sage thought it was great too. She cried happy tears :)</p>"
+            ]
+        },
+        {
+            "title": "Venging",
+            "id": "venging",
+            "date": "2022 Jan - 2022 Feb",
+            "description": "A small voxel rendering engine.",
+            "motivation": "Personal project",
+            "tech": "C++, OpenGL, GLFW, Visual Studio",
+            "image": "images/Venging.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Venging",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Gates Galore",
+            "id": "gates-galore",
+            "date": "2021 Dec - 2022 Feb | 2022 Oct",
+            "description": "A mod for the game Logic World, a digital logic simulation game, that adds a multitude of missing logic gates.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, Unity",
+            "image": "images/GatesGalore.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/Gates-Galore",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Advanced Math",
+            "id": "advanced-math",
+            "date": "2021 Nov",
+            "description": "An advanced mathematics library for C#.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio",
+            "image": "images/AdvancedMath.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/AdvancedMath",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Biggest Balls in the West",
+            "id": "biggest-balls-in-the-west",
+            "date": "2021 Oct",
+            "description": "A crazy western pinball game, that takes real balls to play.",
+            "motivation": "2021 Fall Game Jam, hosted by the Game Development Club at ISU (exhibition)",
+            "tech": "Unity, C#, Visual Studio",
+            "image": "images/BBITW.png",
+            "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
+            "repo": "",
+            "body": [
+                "<p>The Biggest Balls in the West was a really fun game to work on. At the time, I was itching to create another game jam game. I was the president of the <a href='https://www.stuorg.iastate.edu/isu-gdc'>Game Development Club at Iowa State University</a> for 2 years at that point, and hadn't participated in one since before then. I convinced the other officers of the club to create a game with me, and this is what we created.</p>",
+                "<img src='images/BBITW2.png' alt='Biggest Balls in the West main menu'>",
+                "<p>Our goal for this game was to create a pinball game, similar to Sonic Spinball or Kirby's Pinball Land. The art on the sides of the game is supposed to represent the side art of a pinball machine, and the game can be found in the center.</p>",
+                "<img src='images/BBITW4.png' alt='Biggest Balls in the West start screen'>",
+                "<p>Upon hitting start, the player is greeted with a quick and dirty instruction manual. After holding down space, the ball will be fired into the game. The Biggest Balls in the West is a procedural game, with random rooms. As you progress up the tower, you can collect points. But don't take too much time: the tower will start to sink into the quicksand it sits on eventually! At the top, you can fight one of four bosses. My personal favorites are the tumbleweed and the tire, which are also cutely depicted on the side art.</p>",
+                "<div class='collage image2'><img src='images/BBITW3.png' alt='Biggest Balls in the West tumbleweed boss'><img src='images/BBITW1.png' alt='Biggest Balls in the West tire boss'></div>",
+                "<p>The tumbleweed boss, you must hit it several times, as it spins and rolls in and out of view. The tire spins around, but can only be damaged if you thread the needle to the inside. I'm really happy with this game, and it was a lot of fun to work on. <a href='https://bigmintymitch.itch.io/biggest-balls-in-the-west'>Please play it on my itch page</a> if you think its cool, I'd really appreciate it!</p>"
+            ]
+        },
+        {
+            "title": "The Void Above",
+            "id": "the-void-above",
+            "date": "2020 Sept - 2021 Dec",
+            "description": "A 3D voxel game on curved planets.",
+            "motivation": "Personal project",
+            "tech": "Unity, C#, Visual Studio, Blender",
+            "image": "images/TheVoidAbove.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Mathematical Sandbox",
+            "id": "math-sandbox",
+            "date": "2021 Mar",
+            "description": "A console-based math sandbox, with various functions and built-in math equations.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio",
+            "image": "images/MathematicalSandbox.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/MathematicalSandbox",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "MOW POWER",
+            "id": "mow-power",
+            "date": "2021 Mar",
+            "description": "A dangerous lawn mowing racing game. Who's got the most power?",
+            "motivation": "2021 Spring Game Jam, hosted by the Game Development Club at ISU (winner)",
+            "tech": "Unity, C#, Visual Studio",
+            "image": "images/MowPower.png",
+            "link": "https://bigmintymitch.itch.io/mow-power",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Beat It!",
+            "id": "beat-it",
+            "date": "2020 October",
+            "description": "A fun, competitive dance dance revolution clone.",
+            "motivation": "2020 Fall Game Jam, hosted by the Game Development Club at ISU (winner)",
+            "tech": "Unity, C#, Visual Studio",
+            "image": "images/BeatIt.png",
+            "link": "https://bigmintymitch.itch.io/beat-it",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Ultimate Console",
+            "id": "ultimate-console",
+            "date": "2020 April",
+            "description": "The C# System.Console, but better.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio",
+            "image": "images/UltimateConsole.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Ultimate Console Engine",
+            "id": "ultimate-console-engine",
+            "date": "2020 March - 2020 May",
+            "description": "A game engine that emulated a console.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, WinForms",
+            "image": "images/UltimateConsoleEngine.jpg",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "Console Log Reader",
+            "id": "console-log-reader",
+            "date": "2019 March",
+            "description": "A tool for The Blockheads (video game) server consoles, to make it easier to read and find messages from players.",
+            "motivation": "Personal project",
+            "tech": "C#, Visual Studio, WinForms",
+            "image": "images/ConsoleLogReader.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
+            "title": "School Showdown",
+            "id": "school-showdown",
+            "date": "2019 March",
+            "description": "A battle of the ages amongst a group of unique teachers.",
+            "motivation": "Personal project",
+            "tech": "Unity, C#, Visual Studio, Autodesk Sketchbook",
+            "image": "images/SchoolShowdown.png",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        }
+    ]    
+}

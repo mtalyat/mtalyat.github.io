@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('../data/projects.json')
         .then(response => response.json())
         .then(projects => {
-            const project = projects.find(p => p.id.toString() === projectId);
+            const project = projects.projects.find(p => p.id.toString() === projectId);
 
             document.title += ' - ' + project.title;
 
