@@ -351,7 +351,13 @@
         "link": "https://bigmintymitch.itch.io/biggest-balls-in-the-west",
         "repo": "",
         "body": [
-            
+            "<p>The Biggest Balls in the West was a really fun game to work on. At the time, I was itching to create another game jam game. I was the president of the <a href='https://www.stuorg.iastate.edu/isu-gdc'>Game Development Club at Iowa State University</a> for 2 years at that point, and hadn't participated in one since before then. I convinced the other officers of the club to create a game with me, and this is what we created.</p>",
+            "<img src='images/BBITW2.png' alt='Biggest Balls in the West main menu'>",
+            "<p>Our goal for this game was to create a pinball game, similar to Sonic Spinball or Kirby's Pinball Land. The art on the sides of the game is supposed to represent the side art of a pinball machine, and the game can be found in the center.</p>",
+            "<img src='images/BBITW4.png' alt='Biggest Balls in the West start screen'>",
+            "<p>Upon hitting start, the player is greeted with a quick and dirty instruction manual. After holding down space, the ball will be fired into the game. The Biggest Balls in the West is a procedural game, with random rooms. As you progress up the tower, you can collect points. But don't take too much time: the tower will start to sink into the quicksand it sits on eventually! At the top, you can fight one of four bosses. My personal favorites are the tumbleweed and the tire, which are also cutely depicted on the side art.</p>",
+            "<div class='collage image2'><img src='images/BBITW3.png' alt='Biggest Balls in the West tumbleweed boss'><img src='images/BBITW.png' alt='Biggest Balls in the West tire boss'></div>",
+            "<p>The tumbleweed boss, you must hit it several times, as it spins and rolls in and out of view. The tire spins around, but can only be damaged if you thread the needle to the inside. I'm really happy with this game, and it was a lot of fun to work on. <a href='https://bigmintymitch.itch.io/biggest-balls-in-the-west'>Please play it on my itch page</a> if you think its cool, I'd really appreciate it!</p>"
         ]
     },
     {
