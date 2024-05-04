@@ -81,7 +81,7 @@
         "motivation": "COM S 437 (Computer Game and Media Programming) technical presentation",
         "tech": "WebGL, JavaScript, FastNoiseLite.",
         "image": "images/TerrainGenerationDemo.png",
-        "link": "",
+        "link": "demos/terrain/index.html",
         "repo": "https://github.com/mtalyat/437-Technical-Demo",
         "body": [
             
