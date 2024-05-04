@@ -32,13 +32,13 @@
         ]
     },
     {
-        "title": "Yokiado",
-        "id": "yokiado",
+        "title": "Yokaido",
+        "id": "yokaido",
         "date": "2022 Oct - Current",
         "description": "A futile japan Samurai must fight back agains the spirit world, as it is his duty.",
         "motivation": "Personal project",
         "tech": "Minty Game Engine, C#, Crocotile 3D",
-        "image": "images/Yokiado.png",
+        "image": "images/Yokaido.png",
         "link": "",
         "repo": "",
         "body": [
