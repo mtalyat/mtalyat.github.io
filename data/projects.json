@@ -9,9 +9,26 @@
         "image": "images/MintyEngine.png",
         "link": "",
         "repo": "https://github.com/mtalyat/Minty-Engine",
-        "body": [ 
-            "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>.</p>",
-            "<p>test</p>"
+        "body": [
+            "<h2>About</h2>",
+            "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>. After that disaster, I decided the best option for me was to create my own game engine. I have all of the skills, and I have done it before, more or less.</p>",
+            "<img src='images/MintyEngine.png' alt='The Minty Engine editor' width=100%>",
+            "<p>I have learned about and created the game engine with the following technologies:</p>",
+            "<h2>Technologies</h2>",
+            "<h3>Vulkan</h3>",
+            "<p><a href='https://www.vulkan.org'>Vulkan</a> is a low level 3D graphics library, written for C++. It's very popular due to its constant updates, company backing, multi-platform support, and many other things. However, due to it being so low level, it has its own challenges to learn and use, much more so than something such as its older brother library, OpenGL.</p>",
+            "<h2>Experience</h2>",
+            "<p>All of the following projects helped me create this one:</p>",
+            "<ul>",
+            "<li><a href='project.html?id=minty'>Minty (game engine)</a>",
+            "<ul><li>Audio<li>2D graphics</ul>",
+            "<li><a href='project.html?id=327-craft'>327 Craft</a>",
+            "<li><a href='project.html?id=venging'>Venging</a>",
+            "<ul><li>3D graphics</ul>",
+            "<li><a href='project.html?id=the-void-above'>The Void Above</a>",
+            "<ul><li>Mesh building<li>Shaders</ul>",
+            "<li><a href='project.html?id=ultimate-console-engine'>Ultimate Console Engine</a>",
+            "</ul>"
         ]
     },
     {
