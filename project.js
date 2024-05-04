@@ -6,6 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(response => response.json())
         .then(projects => {
             const project = projects.find(p => p.id.toString() === projectId);
+
+            document.title += ' - ' + project.title;
+
             if (project) {
                 const detailSection = document.getElementById('body');
                 let content = `<h1>${project.title}</h1>`;
