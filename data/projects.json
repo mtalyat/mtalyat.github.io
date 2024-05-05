@@ -16,14 +16,13 @@
             "link": "",
             "repo": "https://github.com/mtalyat/Minty-Engine",
             "body": [
-                "<h2>About</h2>",
                 "<p>The Minty Game Engine is a hobby project that I started in 2023, following <a href='https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development'>Unity's pricing model change</a>. After that disaster, I decided the best option for me was to create my own game engine. I have all of the skills, and I have done it before, more or less.</p>",
                 "<img src='images/MintyEngine1.png' alt='The Minty Engine editor' width=100%>",
                 "<p>I have learned about and created the game engine with the following technologies:</p>",
-                "<h2>Technologies</h2>",
-                "<h3>Vulkan</h3>",
+                "<h3>Technologies</h3>",
+                "<h4>Vulkan</h4>",
                 "<p><a href='https://www.vulkan.org'>Vulkan</a> is a low level 3D graphics library, written for C++. It's very popular due to its constant updates, company backing, multi-platform support, and many other things. However, due to it being so low level, it has its own challenges to learn and use, much more so than something such as its older brother library, OpenGL.</p>",
-                "<h2>Experience</h2>",
+                "<h3>Experience</h3>",
                 "<p>All of the following projects helped me create this one:</p>",
                 "<ul>",
                 "<li><a href='project.html?id=minty'>Minty (game engine)</a>",
@@ -275,9 +274,20 @@
             "tech": "C++, ncurses",
             "image": "images/327Craft.png",
             "link": "",
-            "repo": "",
+            "repo": "https://github.com/mtalyat/327-Craft",
             "body": [
-                
+                "<p>327 Craft was a final project that I made for my advanced programming techniques class (COM S 327). For the class itself, we created a Pokemon rogue game in the terminal, starting in C, and transitioning to C++ over the course of the semester. That project was fun, and had many of its own challenges and features. Some of the things implemented in that were chunk loading, asset (text) loading, general user interfaces, djikstra's algorithm for the enemies, as well as a combat system. I essentually made a small game engine for that game: which I used parts of for 327 Craft.</p>",
+                "<img src='images/327craft1.png' alt=''>",
+                "<p>The final project for the class was open ended: we could create whatever we wanted, as long as it had an arguable amount of challenges in it. Most students created a connect 4 game or something else: I wanted to test myself with my new C and C++ skills I had picked up and improved upon over the semester, so I combined it with my existing game development knowledge. Most of what I had known (such as using noise and terrain generation, etc.) I had learned from when I made <a href='project.html?id=the-void-above'>The Void Above</a>.</p>",
+                "<img src='images/327craft4.png' alt=''>",
+                "<p>The game itself had several features. Aside from being highly configurable using the csv files, the base game had several features. It had infinite procedural land generation, with 4 different biomes. Each biome also had different types of terrain, such as trees. The terrain would also spawn clouds in the sky, and ores underground, which was a fun little touch, to spice up the sky and ground.</p>",
+                "<img src='images/327craft3.png' alt=''>",
+                "<p>In addition to the terrain generation, the player was also able to mine and place blocks. All the player could place was wood planks, but, you know, the thought was there. Here's a couple images of mining and building:</p>",
+                "<div class='collage image2'><img src='images/327craft5.png' alt=''><img src='images/327craft2.png' alt=''></div>",
+                "<p>If I had taken the game further, there also would have been a system for crafting. I only made this within a week. Well, kinda- like I said, most of the 'engine' code was ripped from the Pokemon game that we had made for the class. Most of the code I wrote within that week had to do with the terrain generation and file reading.Despite this, I did at least create a barebones inventory system that would allow you to view what you had, and would update as you collect resources:</p>",
+                "<img src='images/327craft6.png' alt=''>",
+                "<p>By navigating up and down, you could view more information for each item. Of course, they were labeled by their numerical ID, and that could have been their name, but it is what it is.</p>",
+                "<p>This game was created on Linux, so if you have Linux, you're in luck! If you feel like digging around the source code, you can find it <a href='https://github.com/mtalyat/327-Craft'>on my GitHub page</a>."
             ]
         },
         {

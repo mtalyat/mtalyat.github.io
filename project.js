@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p><b>Technology:</b> ${project.tech}</p>`;
                 if(project.link.length > 0) content += `<p><b>Link:</b> <a href="${project.link}">${project.link}</a></p>`;
                 if(project.repo.length > 0) content += `<p><b>Repository:</b> <a href="${project.repo}">${project.repo}</a></p>`;
+                content += `<h2>Blog</h2>`;
 
                 project.body.forEach(element => {
                     content += `${element}`;
