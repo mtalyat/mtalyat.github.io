@@ -11,7 +11,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 document.title += ' - ' + project.title;
                 
                 const detailSection = document.getElementById('body');
-                let content = `<h1>${project.title}</h1>`;
+                let content = `<h1>${project.title}</h1>
+                <p>${project.date}</p>
+                <p><b>Dates worked on:</b> ${project.date}</p>
+                <p><b>Motivation:</b> ${project.motivation}</p>
+                <p><b>Technology:</b> ${project.tech}</p>`;
+                if(project.link.length > 0) content += `<p><b>Link:</b> <a href="${project.link}">${project.link}</a></p>`;
+                if(project.repo.length > 0) content += `<p><b>Repository:</b> <a href="${project.repo}">${project.repo}</a></p>`;
+
                 project.body.forEach(element => {
                     content += `${element}`;
                 });
