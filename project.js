@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(projects => {
             const project = projects.projects.find(p => p.id.toString() === projectId);
 
-            document.title += ' - ' + project.title;
-
             if (project) {
+                document.title += ' - ' + project.title;
+                
                 const detailSection = document.getElementById('body');
                 let content = `<h1>${project.title}</h1>`;
                 project.body.forEach(element => {
