@@ -224,6 +224,20 @@
             ]
         },
         {
+            "title": "LEGO Halloween Costumes",
+            "id": "lego-costumes",
+            "date": "2022 Oct",
+            "description": "Two scaled LEGO Minifigure halloween costumes.",
+            "motivation": "Personal project",
+            "tech": "",
+            "image": "images/LegoCostume.jpg",
+            "link": "",
+            "repo": "",
+            "body": [
+                
+            ]
+        },
+        {
             "title": "Component Designer for Logic World",
             "id": "component-designer",
             "date": "2022 Oct",
