@@ -148,8 +148,14 @@ main {
     justify-content: space-between;
 }
 
-.image2 img {
+.image2x1 img {
     width: calc(50% - 4px);
+    height: auto;
+    border: 2px solid #000;
+}
+
+.image3x1 img {
+    width: calc(33.33% - 6px);
     height: auto;
     border: 2px solid #000;
 }
