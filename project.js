@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 const detailSection = document.getElementById('body');
                 let content = `<h1>${project.title}</h1>
                 <p><b>Dates worked on:</b> ${project.date}</p>
-                <p><b>Motivation:</b> ${project.motivation}</p>
-                <p><b>Technology:</b> ${project.tech}</p>`;
+                <p><b>Motivation:</b> ${project.motivation}</p>`;
+                if(project.tech.length > 0) content += `<p><b>Technology:</b> ${project.tech}</p>`;
                 if(project.link.length > 0) content += `<p><b>Link:</b> <a href="${project.link}">${project.link}</a></p>`;
                 if(project.repo.length > 0) content += `<p><b>Repository:</b> <a href="${project.repo}">${project.repo}</a></p>`;
                 content += `<h2>Blog</h2>`;
