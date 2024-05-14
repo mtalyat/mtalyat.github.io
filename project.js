@@ -12,7 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 const detailSection = document.getElementById('body');
                 let content = `<h1>${project.title}</h1>
-                <p>${project.date}</p>
                 <p><b>Dates worked on:</b> ${project.date}</p>
                 <p><b>Motivation:</b> ${project.motivation}</p>
                 <p><b>Technology:</b> ${project.tech}</p>`;
