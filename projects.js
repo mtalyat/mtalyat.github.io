@@ -14,6 +14,7 @@ fetch('../data/projects.json')
             <div class="overlay">
             <h2>${project.title}</h2>
             <p>${project.description}</p>
+            <p>${project.body.length > 0 ? "" : "No blog yet :("}</p>
             </div>
             </a>
             </div>`;
