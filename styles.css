@@ -124,6 +124,7 @@ main {
 
 .blogged {
     border: 5px solid #559955;
+    box-sizing: border-box;
 }
 
 .project:hover .overlay {
