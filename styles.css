@@ -122,6 +122,10 @@ main {
     display: block;
 }
 
+.blogged {
+    border: 5px solid #559955;
+}
+
 .project:hover .overlay {
     opacity: 1;
 }
