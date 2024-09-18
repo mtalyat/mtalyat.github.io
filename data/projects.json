@@ -96,10 +96,27 @@
             "motivation": "COM S 437 (Computer Game and Media Programming) final project",
             "tech": "Unity, C#, Visual Studio, Crocotile 3D, Aseprite",
             "image": "images/DrCovalent.png",
-            "link": "",
+            "link": "https://bigmintymitch.itch.io/dr-covalent",
             "repo": "",
             "body": [
-                
+                "<center><img src='images/DrCovalent5.png' alt='Dr. Covalent title screen'></center>",
+                "<p>Dive into Dr. Covalent, a 2.5D roguelike where you can harness the power of alchemy to craft elements for strategic attacks and defenses.</p>",
+                "<img src='images/DrCovalent7.gif' alt='Dr. Covalent fighting multiple enemies'>",
+                "<p>Inspired by <a href='https://littlealchemy.com'>Little Alchemy</a> and other roguelikes, Dr. Covalent brings in the best elements of both worlds.</p>",
+                "<img src='images/DrCovalent2.png' alt='Dr. Covalent inventory system'>",
+                "<p>Open the inventory and craft items using the intuitive UI. Drag and drop items on top of one another to combine them together. A list of all collected elements are shown on the side.</p>",
+                "<center><img src='images/DrCovalent3.png' alt='Dr. Covalent elements list'></center>",
+                "<p>Collect elements of all types and combine them together to make better gear. The possibilities are endless!</p>",
+                "<div class='collage image2x1'><img src='images/DrCovalent4_Air.png' alt='Dr. Covalent in a white room'><img src='images/DrCovalent4_Earth.png' alt='Dr. Covalent in a yellow and orange hallway'></div><div class='collage image2x1'><img src='images/DrCovalent4_Water.png' alt='Dr. Covalent in a blue room with green pipes'><img src='images/DrCovalent4_Fire.png' alt='Dr. Covalent in a red and black checkered room'></div>",
+                "<p>Explore 8 different themed floors with different types of rooms and hallways. Each floor has a unique element to it- can you figure out which one is water?</p>",
+                "<img src='images/DrCovalent8.png' alt='Dr. Covalent running from an enemy'>",
+                "<p>Each theme has multiple types of enemies, each of which with unique traits and attacks. Some even drop special items!</p>",
+                "<img src='images/DrCovalent9.gif' alt='Dr. Covalent dying'>",
+                "<p>If you take too much damage, be careful! You might... explode.</p>",
+                "<center><img src='images/DrCovalent6.png' alt='Dr. Covalent and the final boss'></center>",
+                "<p>At the end of each tower, your destiny awaits you. Do you have what it takes?</p>",
+                "<center></br><a href='https://bigmintymitch.itch.io/dr-covalent'>Play it now!</a></br></br></center>",
+                "<center><img src='images/DrCovalent1.png' alt='Dr. Covalent'></center>"
             ]
         },
         {
