@@ -9,12 +9,11 @@ fetch('../data/projects.json')
         function getProjectContents(project)
         {
             return `<div class="project">
-            <img src="${project.image}" alt="${project.title} image">
+            <img src="${project.image}" alt="${project.title} image" class="${project.body.length > 0 ? "blogged" : ""}">
             <a href="project.html?id=${project.id}">
             <div class="overlay">
             <h2>${project.title}</h2>
             <p>${project.description}</p>
-            <p>${project.body.length > 0 ? "" : "No blog yet :("}</p>
             </div>
             </a>
             </div>`;
