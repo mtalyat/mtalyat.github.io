@@ -89,6 +89,20 @@
             ]
         },
         {
+            "title": "CHISL",
+            "id": "chisl",
+            "date": "2024 Apr - 2024 Jul",
+            "description": "A scripting language meant for easily interfacing with the screen, just as a human would.",
+            "motivation": "Personal project",
+            "tech": "C++, OpenCV, Tesseract OCR",
+            "image": "images/CHISL.png",
+            "link": "https://github.com/mtalyat/Computer-Human-Interface-Scripting-Language/releases",
+            "repo": "https://github.com/mtalyat/Computer-Human-Interface-Scripting-Language",
+            "body": [
+                
+            ]
+        },
+        {
             "title": "Dr. Covalent",
             "id": "dr-covalent",
             "date": "2024 Jan - 2024 May",
