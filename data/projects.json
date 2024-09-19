@@ -99,7 +99,16 @@
             "link": "https://github.com/mtalyat/Computer-Human-Interface-Scripting-Language/releases",
             "repo": "https://github.com/mtalyat/Computer-Human-Interface-Scripting-Language",
             "body": [
-                
+                "<h2>Computer-Human Interface Scripting Language</h2>",
+                "<p>CHISL is a scripting languge, created with the intention of being able to easy automate tasks. Many repetitive tasks on a computer are unable to be automated due to the lack of support for automation- this solves that. Anything a human can do, the languge can do.</p>",
+                "<p>This was originally created and tested on the <a href='https://onemillioncheckboxes.com/'>One Million Checkboxes</a> website. The idea was that I could create a script that would read the screen, find an image (a checkbox in this case), and control the mouse so it could click it. That being said, I think it worked pretty well!</p>",
+                "<p><b>Well, how does it work?</b></p>",
+                "<p>I'm glad you asked!</p>",
+                "<p>The code base was written in C++, for two reasons: it's fast, and I have been using it lately for the Minty Game Engine, so I've gotten pretty proficient with C++. Thankfully, in addition to Python, OpenCV and Tesseract OCR work well with C++. OpenCV is used for reading the screen, image manipulation, and  identifying images (templates). Tesseract OCR is used for parsing text from an image. In addition to those two features, CHISL also uses the Windows API to control the mouse and keyboard.</p>",
+                "<p>The code itself uses Regex and various algorithms to parse each script. Each line uses Regex to identify the command and ensure the syntax is correct. The program first starts by parsing each line, and gathering the labels and their locations. After doing so, each line is evaluated from top to bottom. Upon a failure, an error is printed to the console, and the program will keep running.</p>",
+                "<p>Each command runs some specific code based on its action. The functionality for each command can be found in the README on the project page.</p>",
+                "<p>Here are some demos of CHISL in action:</p>",
+                "<p><i>Coming soon</i></p>" 
             ]
         },
         {
