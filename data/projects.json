@@ -70,8 +70,22 @@
             "image": "images/Yokaido.png",
             "link": "",
             "repo": "",
+            "body": []
+        },
+        {
+            "title": "Albumworks",
+            "id": "albumworks",
+            "date": "2025 Apr - 2025 May",
+            "description": "A Python Script for downloading YouTube videos.",
+            "motivation": "Personal project",
+            "tech": "Python",
+            "image": "images/Albumworks.png",
+            "link": "https://github.com/mtalyat/AlbumWorks/releases",
+            "repo": "https://github.com/mtalyat/AlbumWorks",
             "body": [
-    
+                "<p>Albumworks is a Python script that allows you to download YouTube videos as audio files. You can download a playlist, or a single video, and it will turn it into an album. If a single video is given, it will automatically use the description time stamps to split the video into parts.</p>",
+                "<p>The program is a simple Python command line tool. It has minimal robustness. This is more of me sharing a tool that I made and use, rather than a full fledged project.</p>",
+                "<img src='images/Albumworks.png' alt='An example of Albumworks running.' width=100%>"
             ]
         },
         {
@@ -84,9 +98,7 @@
             "image": "images/Alkaline.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "CHISL",
@@ -108,7 +120,7 @@
                 "<p>The code itself uses Regex and various algorithms to parse each script. Each line uses Regex to identify the command and ensure the syntax is correct. The program first starts by parsing each line, and gathering the labels and their locations. After doing so, each line is evaluated from top to bottom. Upon a failure, an error is printed to the console, and the program will keep running.</p>",
                 "<p>Each command runs some specific code based on its action. The functionality for each command can be found in the README on the project page.</p>",
                 "<p>Here are some demos of CHISL in action:</p>",
-                "<p><i>Coming soon</i></p>" 
+                "<p><i>Coming soon</i></p>"
             ]
         },
         {
@@ -171,9 +183,7 @@
             "image": "images/MiniGolf.png",
             "link": "https://bigmintymitch.itch.io/mini-golf",
             "repo": "https://github.com/mtalyat/Mini-Golf",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Voxel Ray Tracer",
@@ -185,9 +195,7 @@
             "image": "images/VoxelRayTracer.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Single Header Interactive Terminal Engine",
@@ -199,9 +207,7 @@
             "image": "images/SHITE.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Single-Header-Interactive-Terminal-Engine",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Pixgolf",
@@ -213,9 +219,7 @@
             "image": "images/Pixgolf.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "The Macro App",
@@ -227,9 +231,7 @@
             "image": "images/TheMacroApp.png",
             "link": "",
             "repo": "https://github.com/mtalyat/The-Macro-App",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Image Sorter",
@@ -241,9 +243,7 @@
             "image": "images/ImageSorter.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Image-Sorter",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Minty (game engine)",
@@ -255,9 +255,7 @@
             "image": "images/Minty.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Minty",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Sand Game Tech Demo",
@@ -269,9 +267,7 @@
             "image": "images/SandGameTechDemo.png",
             "link": "",
             "repo": "https://github.com/mtalyat/SandGame-Tech-Demo",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "LEGv8 Assembly VS Code Extension",
@@ -283,9 +279,7 @@
             "image": "images/LEGv8.png",
             "link": "https://marketplace.visualstudio.com/items?itemName=mtalyat.legv8-assembly",
             "repo": "https://github.com/mtalyat/LEGv8-Assembly-VSCode-Extension",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "LEGO Halloween Costumes",
@@ -327,9 +321,7 @@
             "image": "images/ComponentDesigner.png",
             "link": "https://bigmintymitch.itch.io/component-designer-for-logic-world",
             "repo": "https://github.com/mtalyat/Component-Designer",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "LEGv8Day",
@@ -341,9 +333,7 @@
             "image": "images/LEGv8.png",
             "link": "",
             "repo": "https://github.com/mtalyat/LEGv8Day",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Talysoft",
@@ -355,9 +345,7 @@
             "image": "images/Talysoft.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Talysoft",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "327 Craft",
@@ -423,9 +411,7 @@
             "image": "images/Venging.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Venging",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Gates Galore",
@@ -437,9 +423,7 @@
             "image": "images/GatesGalore.png",
             "link": "",
             "repo": "https://github.com/mtalyat/Gates-Galore",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Advanced Math",
@@ -451,9 +435,7 @@
             "image": "images/AdvancedMath.png",
             "link": "",
             "repo": "https://github.com/mtalyat/AdvancedMath",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Biggest Balls in the West",
@@ -485,9 +467,7 @@
             "image": "images/TheVoidAbove.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Mathematical Sandbox",
@@ -499,9 +479,7 @@
             "image": "images/MathematicalSandbox.png",
             "link": "",
             "repo": "https://github.com/mtalyat/MathematicalSandbox",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "MOW POWER",
@@ -513,9 +491,7 @@
             "image": "images/MowPower.png",
             "link": "https://bigmintymitch.itch.io/mow-power",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Beat It!",
@@ -527,9 +503,7 @@
             "image": "images/BeatIt.png",
             "link": "https://bigmintymitch.itch.io/beat-it",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Ultimate Console",
@@ -541,9 +515,7 @@
             "image": "images/UltimateConsole.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Ultimate Console Engine",
@@ -555,9 +527,7 @@
             "image": "images/UltimateConsoleEngine.jpg",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "Console Log Reader",
@@ -569,9 +539,7 @@
             "image": "images/ConsoleLogReader.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         },
         {
             "title": "School Showdown",
@@ -583,9 +551,7 @@
             "image": "images/SchoolShowdown.png",
             "link": "",
             "repo": "",
-            "body": [
-                
-            ]
+            "body": []
         }
-    ]    
+    ]
 }
