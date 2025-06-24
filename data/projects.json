@@ -89,6 +89,24 @@
             ]
         },
         {
+            "title": "TREE",
+            "id": "tree",
+            "date": "2025 Apr - 2025 May",
+            "description": "A Terminal Rendering EnginE.",
+            "motivation": "Personal project",
+            "tech": "C",
+            "image": "images/TREE.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/TerminalRenderingEnginE",
+            "body": [
+                "<p>Terminal Rendering EnginE (TREE) is a tool designed to make it super easy to create GUI-like terminal programs using C, C++ or Python (Python WIP as of 6/23/25). It provides an easy way to create an application context, with various premade control types, such as labels, buttons, lists, dropdowns, text inputs, number inputs, checkboxes, progress bars, and more.</p>",
+                "<img src='images/TREE_Demo.gif' alt='An example of TREE running.' width=100%>",
+                "<p>A user can navigate around the text GUI using WASD or the Arrow Keys, and can \"enter\" or \"trigger\" a control by using Space or Enter. After entering a control, it becomes focused, allowing for more control over the specific control. For simple controls, such as a button, it is instead triggered, calling a function immediately upon using Space or Enter.</p>",
+                "<p>While the specific logic of a program must be implemented by the user, the design of the library is event driven, allowing user applications to follow modern application design patterns. To see this in action, check out the <a href='https://github.com/mtalyat/TerminalRenderingEnginE/tree/main/Demo'>official TREE demo</a>.</p>",
+                "<p>In order to motivate people to try to use TREE, there is a <a href='https://github.com/mtalyat/TerminalRenderingEnginE/wiki/Tutorial'>tutorial wiki page</a> that goes over how to build a TREE program, in C.</p>"
+            ]
+        },
+        {
             "title": "Alkaline",
             "id": "alkaline",
             "date": "2022 Dec - Paused for now",
