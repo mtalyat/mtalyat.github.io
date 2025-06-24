@@ -396,15 +396,15 @@
             "repo": "https://github.com/mtalyat/327-Craft",
             "body": [
                 "<p>327 Craft was a final project that I made for my advanced programming techniques class (COM S 327). For the class itself, we created a Pokemon rogue game in the terminal, starting in C, and transitioning to C++ over the course of the semester. That project was fun, and had many of its own challenges and features. Some of the things implemented in that were chunk loading, asset (text) loading, general user interfaces, djikstra's algorithm for the enemies, as well as a combat system. I essentually made a small game engine for that game: which I used parts of for 327 Craft.</p>",
-                "<img src='images/327craft1.png' alt=''>",
+                "<img src='images/327Craft1.png' alt='A screenshot of a forest in 327 Craft.'><p class='caption'>A forest biome.</p>",
                 "<p>The final project for the class was open ended: we could create whatever we wanted, as long as it had an arguable amount of challenges in it. Most students created a connect 4 game or something else: I wanted to test myself with my new C and C++ skills I had picked up and improved upon over the semester, so I combined it with my existing game development knowledge. Most of what I had known (such as using noise and terrain generation, etc.) I had learned from when I made <a href='project.html?id=the-void-above'>The Void Above</a>.</p>",
-                "<img src='images/327craft4.png' alt=''>",
+                "<img src='images/327Craft4.png' alt='A screenshot of a beach in 327 Craft.'><p class='caption'>A beach biome.</p>",
                 "<p>The game itself had several features. Aside from being highly configurable using the csv files, the base game had several features. It had infinite procedural land generation, with 4 different biomes. Each biome also had different types of terrain, such as trees. The terrain would also spawn clouds in the sky, and ores underground, which was a fun little touch, to spice up the sky and ground.</p>",
-                "<img src='images/327craft3.png' alt=''>",
+                "<img src='images/327Craft3.png' alt='A screenshot of a mountain in 327 Craft.'><p class='caption'>A mountain biome..</p>",
                 "<p>In addition to the terrain generation, the player was also able to mine and place blocks. All the player could place was wood planks, but, you know, the thought was there. Here's a couple images of mining and building:</p>",
-                "<div class='collage image2x1'><img src='images/327craft5.png' alt=''><img src='images/327craft2.png' alt=''></div>",
+                "<div class='collage image2x1'><img src='images/327Craft5.png' alt='A screenshot of a player mining in 327 Craft.'><img src='images/327Craft2.png' alt='A screenshot of a player building in 327 Craft.'></div><p class='caption'>A player mining and building.</p>",
                 "<p>If I had taken the game further, there also would have been a system for crafting. I only made this within a week. Well, kinda- like I said, most of the 'engine' code was ripped from the Pokemon game that we had made for the class. Most of the code I wrote within that week had to do with the terrain generation and file reading.Despite this, I did at least create a barebones inventory system that would allow you to view what you had, and would update as you collect resources:</p>",
-                "<img src='images/327craft6.png' alt=''>",
+                "<img src='images/327Craft6.png' alt='A screenshot of the inventory in 327 Craft.'><p class='caption'>The inventory system.</p>",
                 "<p>By navigating up and down, you could view more information for each item. Of course, they were labeled by their numerical ID, and that could have been their name, but it is what it is.</p>",
                 "<p>This game was created on Linux, so if you have Linux, you're in luck! If you feel like digging around the source code, you can find it <a href='https://github.com/mtalyat/327-Craft'>on my GitHub page</a>."
             ]
