@@ -164,3 +164,10 @@ main {
     height: auto;
     border: 2px solid #000;
 }
+
+.caption {
+    text-align: center;
+    font-style: italic;
+    color: #aaa;
+    margin-top: 0;
+}

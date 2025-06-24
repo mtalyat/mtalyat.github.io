@@ -200,7 +200,27 @@
             "image": "images/MiniGolf.png",
             "link": "https://bigmintymitch.itch.io/mini-golf",
             "repo": "https://github.com/mtalyat/Mini-Golf",
-            "body": []
+            "body": [
+                "<p>Mini Golf? is a game I made for my Computer Game and Media Programming class. One of the projects was that we had to make a mini golf game using MonoGame, and we had to implement our own physics. Now, that being said, I decided to make this a real project, and post it on Itch.</p>",
+                "<div class='collage image2x1'><img src='images/MiniGolf1.png' alt='The MiniGolf main screen.'><img src='images/MiniGolf2.png' alt='The MiniGolf level select screen.'></div><p class='caption'>The main menu and level select screen.</p>",
+                "<p>This game took inspiration from Angry Birds. Not in the physics sense, but that there was different balls with different mechanics. The levels play into those mechanics, aiming to teach a player how to use them properly, and then moves to challenge them with those newly acquired skills.</p>",
+                "<p>There are 9 \"balls\" in the game, each of which have their own little quirk:</p>",
+                "<ul>",
+                "<li>Golf Ball - Normal</li>",
+                "<li>Tennis Ball - Bouncy</li>",
+                "<li>Soccer Ball - No rolling</li>",
+                "<li>Bowling Ball - Heavy</li>",
+                "<li>Ping Pong Ball - Light</li>",
+                "<li>Football - Fast</li>",
+                "<li>8-Ball - Accurate</li>",
+                "<li>Hockey Puck - Whack</li>",
+                "<li>Mint - Fragile</li>",
+                "</ul>",
+                "<img src='images/MiniGolf3.png' alt='The MiniGolf game screen.'><p class='caption'>A level within the game.</p>",
+                "<p>Additionally, to make level creation easier for myself, I also made a level editor. This was made so that I could easily pump out a ton of levels for the game. It was also added to the game itself so anybody could make their own levels.</p>",
+                "<img src='images/MiniGolf4.png' alt='The MiniGolf editor screen.'><p class='caption'>The level editor.</p>",
+                "<p>The game was recognized in class for being a good example, however, I did feel a little embarassed as I tried extremely hard. Still, I am happy to have this game as part of my final projects. <a href='https://bigmintymitch.itch.io/mini-golf'>Try it now</a> on Itch!</p>"
+            ]
         },
         {
             "title": "Voxel Ray Tracer",
