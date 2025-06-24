@@ -540,7 +540,13 @@
             "image": "images/BeatIt.png",
             "link": "https://bigmintymitch.itch.io/beat-it",
             "repo": "",
-            "body": []
+            "body": [
+                "<p>Beat It! was a game that I helped make during a game jam for the Game Development Club at Iowa State University. This did win the game jam.</p>",
+                "<img src='images/BeatIt1.png' alt='Beat It! main menu' width=100%><p class='caption'>The main menu.</p>",
+                "<p>The inspiration for the game was Dance Dance Revolution (DDR). We did add support for a dance pad, which one of the teammates brought in for the final showcase of the game. All of the music was made by the 3 musicians on our project. The game also includes different difficulties, and all of the \"levels\" are random.</p>",
+                "<div class='collage image2x1'><img src='images/BeatIt2.png' alt='Beat It! gameplay.'><img src='images/BeatIt.png' alt='Beat It! gameplay.'></div><div class='collage image2x1'><img src='images/BeatIt3.png' alt='Beat It! gameplay.'><img src='images/BeatIt4.png' alt='Beat It! gameplay.'></div><p class='caption'>Several screenshots from the game.</p>",
+                "<p>Yes, the GIFs in the background were intentionally distracting. <a href='https://bigmintymitch.itch.io/beat-it'>Try it now</a> on Itch!</p>"
+            ]
         },
         {
             "title": "Ultimate Console",
