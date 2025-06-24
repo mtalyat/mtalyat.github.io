@@ -413,7 +413,7 @@
             "title": "The Legend of Mitchell",
             "id": "the-legend-of-mitchell",
             "date": "2022 Feb",
-            "description": "A 2D platformer, featuring my girlfriend.",
+            "description": "A 2D platformer, featuring my <s>girlfriend</s> wife.",
             "motivation": "Personal project",
             "tech": "Unity, C#, Visual Studio, Aseprite",
             "image": "images/TheLegendOfMitchell.png",
@@ -421,7 +421,7 @@
             "repo": "",
             "body": [
                 "<img src='images/TheLegendOfMitchell1.png' alt='The Legend of Mitchell main menu screen.'>",
-                "<p>The Legend of Mitchell is a last minute game that I created for my girlfriend for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
+                "<p>The Legend of Mitchell is a last minute game that I created for my now wife for Valentine's day, as a gift. I was struggling to come up with a Valentine's day gift for my girlfriend, and five days before the day, I thought it would be cool to make a game. So, that is what I did. For the next 5 days, I put myself into a 1 person game jam, attempting to crank out an entire game, all based on her.</p>",
                 "<img src='images/TheLegendOfMitchell2.png' alt=''>",
                 "<p>For designing the game, I didn't put too much thought into it. Most of that was due to the time constraint. The idea was that I was going to create a Mario clone, but with Sage as the main character. And, since Sage is the main character, then I must be the one in peril. I thought it was a fun take on the whole thing. The boss of the game, of course, had to be somebody who wants to take me from her- so, I made it my friend Devin. You can see them in the main menu screenshot. ;)</p>",
                 "<img src='images/TheLegendOfMitchell3.png' alt=''>",
