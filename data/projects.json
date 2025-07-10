@@ -68,7 +68,8 @@
             "body": [
                 "<p>FileBuddy is a quick script that I created to easily manage files and directories. It provides a simple command line interface for common file operations such as copying, moving, and deleting files.</p>",
                 "<img src='images/FileBuddy.png' alt='The FileBuddy icon.' width=200px>",
-                "<p>Check out the project's <a href='https://github.com/mtalyat/FileBuddy'>GitHub repository</a> for more information.</p>"
+                "<p>The motivation behind this is that I became frustrated having to write little Python scripts for each little thing, when I wanted to modify file names in mass, ex. remove all whitespaces from files in a directory. Now, I have a simple command line tool to do it for me.</p>",
+                "<p>Check out the project's <a href='https://github.com/mtalyat/FileBuddy'>GitHub repository</a> for more information on how to use it.</p>"
             ]
         },
         {
