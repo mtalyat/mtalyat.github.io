@@ -56,6 +56,22 @@
             "body": []
         },
         {
+            "title": "FileBuddy",
+            "id": "filebuddy",
+            "date": "2025 July",
+            "description": "A utlity Python script for file management. ",
+            "motivation": "Personal project",
+            "tech": "Python",
+            "image": "images/FileBuddy.png",
+            "link": "",
+            "repo": "https://github.com/mtalyat/FileBuddy",
+            "body": [
+                "<p>FileBuddy is a quick script that I created to easily manage files and directories. It provides a simple command line interface for common file operations such as copying, moving, and deleting files.</p>",
+                "<img src='images/FileBuddy.png' alt='The FileBuddy icon.' width=200px>",
+                "<p>Check out the project's <a href='https://github.com/mtalyat/FileBuddy'>GitHub repository</a> for more information.</p>"
+            ]
+        },
+        {
             "title": "Minty Support for VS Code",
             "id": "minty-support",
             "date": "2025 June",
